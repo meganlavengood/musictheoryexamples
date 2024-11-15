@@ -36,3 +36,5 @@ For each example there is a printable file of the score, an audio excerpt, and a
 24. [Neapolitan Sixth Chords](examples/24-neapolitan/neapolitan.html)
 25. [Augmented Sixth Chords](examples/25-aug6/aug6.html)
 26. [Various Chromatic Techniques](examples/26-chromatic/26CT.html)
+
+Links not working? [Try browsing the repository directly.](https://github.com/meganlavengood/musictheoryexamples/tree/main/docs/examples)
