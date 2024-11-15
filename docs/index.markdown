@@ -4,9 +4,7 @@
 
 layout: home
 ---
-The goal of this project is to provide the music community with an online database of tonal music theory examples from the classical repertoire. Presently, we have little access to well-organized examples of theoretical techniques beyond the few excerpts contained in textbooks (often without recordings). Researchers, teachers, and students spend countless hours searching for appropriate examples of theoretical techniques. The purpose of our project is to help remedy this situation.
-
-For each example there is a printable file of the score, an audio excerpt, and a single page that includes both the score and audio recording. For a couple of reasons few of the examples contain analysis. First, I wish to impart my own analytical philosophy as little as possible; it is not important that we all interpret these passages similarly. And second, unannotated scores allow teachers to create assignments directly from the database. Some of you have combined the database with Blackboard to create homework and online quizzes. We have included a link for &ldquo;suggested ways to use the database&rdquo; and welcome your ideas.
+The goal of this project is to provide the music community with an online database of tonal music theory examples from the classical repertoire. 
 
 ## Table of Contents
 
