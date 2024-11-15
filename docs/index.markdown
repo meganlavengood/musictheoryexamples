@@ -35,4 +35,4 @@ The goal of this project is to provide the music community with an online databa
 25. [Augmented Sixth Chords](examples/25-aug6/aug6.html)
 26. [Various Chromatic Techniques](examples/26-chromatic/26CT.html)
 
-Links not working? [Try browsing the repository directly.](https://github.com/meganlavengood/musictheoryexamples/tree/main/docs/examples)
+This page is a work in progress and is still being constructed. If links aren't working, [try browsing the repository directly.](https://github.com/meganlavengood/musictheoryexamples/tree/main/docs/examples)
