@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a database of examples to use in the music theory classroom. It was originally hosted on musictheoryexamples.com and compiled by Tim Cutler and Patricia Gray. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This is an **unofficial** successor to that website. I am affiliated with neither the original project nor with its creators. After hearing from former users who were dismayed the site was no longer available, I scraped the data from [the original website via archive.org](https://web.archive.org/web/20210115151357id_/http://musictheoryexamples.com/) and re-hosted it here.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My ultimate goal is to allow other users to add examples via the [GitHub repo](https://github.com/meganlavengood/musictheoryexamples). In the meantime, I am working on providing a stable reconstruction of the old site, with better accessibility and functionality.

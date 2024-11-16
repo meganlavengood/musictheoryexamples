@@ -21,7 +21,7 @@
 title: Music Theory Examples
 email: mll0325@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A site containing examples of various music theory concepts to use in theory classrooms. This site is a recreation of the one formerly run by Tim Cutler and Patricia Gray.
+  A site containing examples of various music theory concepts to use in theory classrooms. This site is a recreation of musictheoryexamples.com, formerly run by Tim Cutler and Patricia Gray.
 baseurl: "/musictheoryexamples" # the subpath of your site, e.g. /blog
 url: "https://meganlavengood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  meganlavengood

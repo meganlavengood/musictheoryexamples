@@ -1,0 +1,793 @@
+---
+layout: examples-list
+title:  "Augmented Sixth Chords"
+date:   2024-11-15 15:02:18 -0500
+---
+
+Numerous examples use a variety of interrelated augmented sixth chord techniques.
+
+## Italian 6/3
+
+<table  class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<tr> 
+<td>A6b</td>
+<td><a href="A6b.html" target="_blank">.swf</a></td>
+<td><a href="A6b.pdf">.pdf</a></td>
+<td><a href="A6b.mp3">.mp3</a></td>
+<td>Haydn, Piano Sonata in c minor, Hob. XVI: 20, mvt. 3, mm. 1-6</td>
+</tr>
+<tr> 
+<td>A6c</td>
+<td><a href="A6c.html" target="_blank">.swf</a></td>
+<td><a href="A6c.pdf">.pdf</a></td>
+<td><a href="A6c.mp3">.mp3</a></td>
+<td>Beethoven, Piano Sonata in c minor, op. 10 no. 1, mvt. 3, mm.1-4</td>
+</tr>
+<tr> 
+<td>A6d</td>
+<td><a href="A6d.html" target="_blank">.swf</a></td>
+<td><a href="A6d.pdf">.pdf</a></td>
+<td><a href="A6d.mp3">.mp3</a></td>
+<td>Beethoven, Violin Sonata no. 7 in c minor, op. 30 no. 2, mvt. 4, mm. 
+    1-10 </td>
+</tr>
+<tr> 
+<td>A6f</td>
+<td><a href="A6f.html" target="_blank">.swf</a></td>
+<td><a href="A6f.pdf">.pdf</a></td>
+<td><a href="A6f.mp3">.mp3</a></td>
+<td>Beethoven, Bagatelle, op. 119 no. 1, mm. 1-16</td>
+</tr>
+<tr> 
+<td>A6g</td>
+<td><a href="A6g.html" target="_blank">.swf</a></td>
+<td><a href="A6g.pdf">.pdf</a></td>
+<td><a href="A6g.mp3">.mp3</a></td>
+<td>J. S. Bach, Chorale no. 19 (&quot;Ich hab' mein' Sach' Gott heimgestellt&quot;), 
+    mm. 1-2</td>
+</tr>
+<tr> 
+<td>A6h</td>
+<td><a href="A6h.html" target="_blank">.swf</a></td>
+<td><a href="A6h.pdf">.pdf</a></td>
+<td><a href="A6h.mp3">.mp3</a></td>
+<td>Beethoven, &quot;Busslied&quot;, op. 48 no. 6, mm. 37-47</td>
+</tr>
+<tr> 
+<td>A6i</td>
+<td><a href="A6i.html" target="_blank">.swf</a></td>
+<td><a href="A6i.pdf">.pdf</a></td>
+<td><a href="A6i.mp3">.mp3</a></td>
+<td>Beethoven, &quot;Die Ehre Gottes aus der Natur&quot;, op. 48 no. 4, 
+    mm. 1-10</td>
+</tr>
+<tr> 
+<td>A6j</td>
+<td><a href="A6j.html" target="_blank">.swf</a></td>
+<td><a href="A6j.pdf">.pdf</a></td>
+<td><a href="A6j.mp3">.mp3</a></td>
+<td>Mozart, Fantasy in c minor, K. 475, mm. 1-2</td>
+</tr>
+<tr> 
+<td>A6k</td>
+<td><a href="A6k.html" target="_blank">.swf</a></td>
+<td><a href="A6k.pdf">.pdf</a></td>
+<td><a href="A6k.mp3">.mp3</a></td>
+<td>Mozart, String Quintet in g minor, K.516, mvt. 2, mm. 1-4</td>
+</tr>
+<tr> 
+<td>A6l</td>
+<td><a href="A6l.html" target="_blank">.swf</a></td>
+<td><a href="A6l.pdf">.pdf</a></td>
+<td><a href="A6l.mp3">.mp3</a></td>
+<td>Schubert, String Quartet in G Major, D. 887, mvt. 1, mm. 1-10</td>
+</tr>
+<tr> 
+<td>A6m</td>
+<td><a href="A6m.html" target="_blank">.swf</a></td>
+<td><a href="A6m.pdf">.pdf</a></td>
+<td><a href="A6m.mp3">.mp3</a></td>
+<td>Mozart, The Magic Flute, K. 620, Overture, mm. 8-13</td>
+</tr>
+<tr> 
+<td>A6n</td>
+<td><a href="A6n.html" target="_blank">.swf</a></td>
+<td><a href="A6n.pdf">.pdf</a></td>
+<td><a href="A6n.mp3">.mp3</a></td>
+<td>Beethoven, Violin Sonata no. 1 in D Major, op. 12 no. 1, mvt. 1, mm. 
+    13-21 </td>
+</tr>
+<tr> 
+<td>A6o</td>
+<td><a href="A6o.html" target="_blank">.swf</a></td>
+<td><a href="A6o.pdf">.pdf</a></td>
+<td><a href="A6o.mp3">.mp3</a></td>
+<td>Beethoven, Violin Sonata no. 9 in A Major, op. 47, mvt. 3, mm. 489-505</td>
+</tr>
+<tr> 
+<td>A6p</td>
+<td><a href="A6p.html" target="_blank">.swf</a></td>
+<td><a href="A6p.pdf">.pdf</a></td>
+<td><a href="A6p.mp3">.mp3</a></td>
+<td>Grieg, Lyric Piece, op. 12 no. 7, mm. 21-24</td>
+</tr>
+<tr> 
+<td>A6q</td>
+<td><a href="A6q.html" target="_blank">.swf</a></td>
+<td><a href="A6q.pdf">.pdf</a></td>
+<td><a href="A6q.mp3">.mp3</a></td>
+<td>Beethoven, String Quartet in G major, op. 18 no. 2, mvt. 3, Trio, 
+    mm. 1-8</td>
+</tr>
+<tr> 
+<td>A6r</td>
+<td><a href="A6r.html" target="_blank">.swf</a></td>
+<td><a href="A6r.pdf">.pdf</a></td>
+<td><a href="A6r.mp3">.mp3</a></td>
+<td>Mendelssohn, Fantasy, op. 16 no. 1, mm. 1-10</td>
+</tr>
+<tr> 
+<td height="25">A6s</td>
+<td><a href="A6s.html" target="_blank">.swf</a></td>
+<td><a href="A6s.pdf">.pdf</a></td>
+<td><a href="A6s.mp3">.mp3</a></td>
+<td>Schubert, Moment Musical, D. 780 no. 6, mm. 36-47</td>
+</tr>
+</table>
+
+## German 6/5
+
+<table  class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<tr> 
+<td>A6t</td>
+<td><a href="25A6/A6t.html" target="_blank">.swf</a></td>
+<td><a href="25A6/A6t.pdf">.pdf</a></td>
+<td><a href="25A6/A6t.mp3">.mp3</a></td>
+<td>Locatelli, L'Arte del Violino, op. 3 no. 6, mvt. 1, mm. 
+    1-6 </td>
+</tr>
+<tr> 
+<td>A6u</td>
+<td><a href="A6u.html" target="_blank">.swf</a></td>
+<td><a href="A6u.pdf">.pdf</a></td>
+<td><a href="A6u.mp3">.mp3</a></td>
+<td>Schumann, Piano Concerto in a minor, op. 54, mvt. 1, mm. 536-544</td>
+</tr>
+<tr> 
+<td>A6x</td>
+<td><a href="A6x.html" target="_blank">.swf</a></td>
+<td><a href="A6x.pdf">.pdf</a></td>
+<td><a href="A6x.mp3">.mp3</a></td>
+<td>Beethoven, 32 Variations in c minor, WoO 80, mm. 1-8</td>
+</tr>
+<tr> 
+<td>A6y</td>
+<td><a href="A6y.html" target="_blank">.swf</a></td>
+<td><a href="A6y.pdf">.pdf</a></td>
+<td><a href="A6y.mp3">.mp3</a></td>
+<td>Mozart, String Quartet in d minor, K. 173, mvt. 1, mm. 125-132</td>
+</tr>
+<tr> 
+<td>A6z</td>
+<td><a href="A6z.html" target="_blank">.swf</a></td>
+<td><a href="A6z.pdf">.pdf</a></td>
+<td><a href="A6z.mp3">.mp3</a></td>
+<td>Paganini, Caprice in c minor, op. 1 no. 4, mm. 5-13</td>
+</tr>
+<tr> 
+<td>A6a1</td>
+<td><a href="A6a1.html" target="_blank">.swf</a></td>
+<td><a href="A6a1.pdf">.pdf</a></td>
+<td><a href="A6a1.mp3">.mp3</a></td>
+<td>Locatelli, L'Arte del Violino, op. 3 no. 5, mvt. 1, mm. 27-29</td>
+</tr>
+<tr> 
+<td>A6b1</td>
+<td><a href="A6b1.html" target="_blank">.swf</a></td>
+<td><a href="A6b1.pdf">.pdf</a></td>
+<td><a href="A6b1.mp3">.mp3</a></td>
+<td>Beethoven, Piano Trio in c minor, op. 1 no. 3, mvt. 1, mm. 1-11</td>
+</tr>
+<tr> 
+<td>A6d1</td>
+<td><a href="A6d1.html" target="_blank">.swf</a></td>
+<td><a href="A6d1.pdf">.pdf</a></td>
+<td><a href="A6d1.mp3">.mp3</a></td>
+<td>Haydn, Piano Sonata in B-flat Major, Hob. XVI: 2, mvt. 2, mm. 5-9</td>
+</tr>
+<tr> 
+<td>A6e1</td>
+<td><a href="A6e1.html" target="_blank">.swf</a></td>
+<td><a href="A6e1.pdf">.pdf</a></td>
+<td><a href="A6e1.mp3">.mp3</a></td>
+<td>Haydn, Piano Trio in D Major, Hob. XV: 16, mvt. 2, mm. 50-54</td>
+</tr>
+<tr> 
+<td>A6f1</td>
+<td><a href="A6f1.html">.swf</a></td>
+<td><a href="A6f1.pdf">.pdf</a></td>
+<td><a href="A6f1.mp3">.mp3</a></td>
+<td>Beethoven, Piano Sonata in c-sharp minor, op. 27 no. 2, mvt. 3, mm. 
+    1-9 </td>
+</tr>
+<tr> 
+<td>A6g1</td>
+<td><a href="A6g1.html">.swf</a></td>
+<td><a href="A6g1.pdf">.pdf</a></td>
+<td><a href="A6g1.mp3">.mp3</a></td>
+<td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 1, mm. 15-21</td>
+</tr>
+<tr> 
+<td>A6h1</td>
+<td><a href="A6h1.html" target="_blank">.swf</a></td>
+<td><a href="A6h1.pdf">.pdf</a></td>
+<td><a href="A6h1.mp3">.mp3</a></td>
+<td>Chopin, Nocturne in c-sharp minor, op. posth., mm. 1-4</td>
+</tr>
+<tr> 
+<td>A6i1</td>
+<td><a href="A6i1.html">.swf</a></td>
+<td><a href="A6i1.pdf">.pdf</a></td>
+<td><a href="A6i1.mp3">.mp3</a></td>
+<td>Mozart, Symphony no. 40 in g minor, K. 550, mvt. 1, mm. 9-16</td>
+</tr>
+<tr> 
+<td>A6j1</td>
+<td><a href="A6j1.html" target="_blank">.swf</a></td>
+<td><a href="A6j1.pdf">.pdf</a></td>
+<td><a href="A6j1.mp3">.mp3</a></td>
+<td>Mozart, Violin Sonata in e minor, K. 304, mvt. 1, mm. 112-120</td>
+</tr>
+<tr> 
+<td>A6k1</td>
+<td><a href="A6k1.html" target="_blank">.swf</a></td>
+<td><a href="A6k1.pdf">.pdf</a></td>
+<td><a href="A6k1.mp3">.mp3</a></td>
+<td>Gluck, Orfeo, Act II, no. 30, mm. 1-9</td>
+</tr>
+<tr> 
+<td height="25">A6l1</td>
+<td><a href="A6k1.html" target="_blank">.swf</a></td>
+<td><a href="A6l1.pdf">.pdf</a></td>
+<td><a href="A6l1.mp3">.mp3</a></td>
+<td>Beethoven, &quot;In Questa Tomba Oscura&quot;, WoO 133, mm. 1-12.</td>
+</tr>
+<tr> 
+<td height="25">A6m1</td>
+<td><a href="A6m1.html" target="_blank">.swf</a></td>
+<td><a href="A6m1.pdf">.pdf</a></td>
+<td>.<a href="25A6/A6m1.mp3">mp3</a></td>
+<td>Beethoven, &quot;Adelaide&quot;, op. 46, mm. 29-38</td>
+</tr>
+<tr> 
+<td height="25">A6n1</td>
+<td><a href="A6n1.html" target="_blank">.swf</a></td>
+<td><a href="A6n1.pdf">.pdf</a></td>
+<td><a href="A6n1.mp3">.mp3</a></td>
+<td>Schubert, 36 Originalt&auml;nze, D. 365 no. 2 (all)</td>
+</tr>
+<tr> 
+<td height="25">A6o1</td>
+<td><a href="A6o1.html" target="_blank">.swf</a></td>
+<td><a href="A6o1.pdf">.pdf</a></td>
+<td><a href="A6o1.mp3">.mp3</a></td>
+<td>Schubert, Piano Sonata in B-flat Major, D. 960, mvt. 1, mm. 31-37</td>
+</tr>
+<tr> 
+<td height="25">A6p1</td>
+<td><a href="A6p1.html" target="_blank">.swf</a></td>
+<td><a href="A6p1.pdf">.pdf</a></td>
+<td><a href="A6p1.mp3">.mp3</a></td>
+<td>Mozart, Violin Concerto no. 4 in D Major, K. 218, mvt. 3, mm. 171-178</td>
+</tr>
+<tr> 
+<td height="25">A6r1</td>
+<td><a href="A6r1.html" target="_blank">.swf</a></td>
+<td><a href="A6r1.pdf">.pdf</a></td>
+<td><a href="A6r1.mp3">.mp3</a></td>
+<td>Beethoven, Piano Sonata in E Major, op. 109, mvt. 3, mm. 1-8</td>
+</tr>
+<tr> 
+<td height="25">A6s1</td>
+<td><a href="A6s1.html" target="_blank">.swf</a></td>
+<td><a href="A6s1.pdf">.pdf</a></td>
+<td><a href="A6s1.mp3">.mp3</a></td>
+<td>Beethoven, &quot;Schilderung eines M&auml;dchens&quot;, WoO 107, mm. 
+    9-19 </td>
+</tr>
+<tr> 
+<td height="25">A6t1</td>
+<td><a href="A6t1.html" target="_blank">.swf</a></td>
+<td><a href="A6t1.pdf">.pdf</a></td>
+<td><a href="A6t1.mp3">.mp3</a></td>
+<td>Mozart, Piano Sonata in D Major, K. 284, mvt. 1, mm. 11-18</td>
+</tr>
+</table>
+
+## German 6/5&#8211;advanced techniques
+
+(modulations, inversions, enharmonic equivalents, relationship to the dominant seventh chord, etc.)
+
+<table  class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<tr> 
+<td>A6u1</td>
+<td><a href="25A6/A6u1.html" target="_blank">.swf</a></td>
+<td><a href="25A6/A6u1.pdf">.pdf</a></td>
+<td><a href="25A6/A6u1.mp3">.mp3</a></td>
+<td>Conus, Violin Concerto in e minor, mm. 84-86</td>
+</tr>
+<tr> 
+<td>A6v1</td>
+<td><a href="A6v1.html" target="_blank">.swf</a></td>
+<td><a href="A6v1.pdf">.pdf</a></td>
+<td><a href="A6v1.mp3">.mp3</a></td>
+<td>Schubert, Sonatina for Violin and Piano in D Major, D. 384, mvt. 1, 
+    mm. 21-39</td>
+</tr>
+<tr> 
+<td>A6w1</td>
+<td><a href="A6w1.html" target="_blank">.swf</a></td>
+<td><a href="A6w1.pdf">.pdf</a></td>
+<td><a href="A6w1.mp3">.mp3</a></td>
+<td>Haydn, String Quartet in g minor, op. 74 no. 3, mvt. 2, mm. 1-10</td>
+</tr>
+<tr> 
+<td>A6x1</td>
+<td><a href="A6x1.html" target="_blank">.swf</a></td>
+<td><a href="A6x1.pdf">.pdf</a></td>
+<td><a href="A6x1.mp3">.mp3</a></td>
+<td>Chopin, Prelude in g minor, op 28 no. 22, mm. 30-41</td>
+</tr>
+<tr> 
+<td>A6y1</td>
+<td><a href="A6y1.html" target="_blank">.swf</a></td>
+<td><a href="A6y1.pdf">.pdf</a></td>
+<td><a href="A6y1.mp3">.mp3</a></td>
+<td>Elgar, Enigma Variations, op. 36, mm. 1-7</td>
+</tr>
+<tr> 
+<td>A6z1</td>
+<td><a href="A6z1.html" target="_blank">.swf</a></td>
+<td><a href="A6z1.pdf">.pdf</a></td>
+<td><a href="A6z1.mp3">.mp3</a></td>
+<td>Scriabin, Prelude, op. 16 no. 4 (all)</td>
+</tr>
+<tr> 
+<td>A6a2</td>
+<td><a href="A6a2.html" target="_blank">.swf</a></td>
+<td><a href="A6a2.pdf">.pdf</a></td>
+<td><a href="A6a2.mp3">.mp3</a></td>
+<td>Tchaikovsky, Piano Concerto no. 1 in b-flat minor, op. 23, mvt. 1, 
+    mm. 658-660</td>
+</tr>
+<tr> 
+<td>A6b2</td>
+<td><a href="A6b2.html" target="_blank">.swf</a></td>
+<td><a href="A6b2.pdf">.pdf</a></td>
+<td><a href="A6b2.mp3">.mp3</a></td>
+<td>Conus, Violin Concerto in e minor, mm. 53-63</td>
+</tr>
+<tr> 
+<td>A6c2</td>
+<td><a href="A6c2.html" target="_blank">.swf</a></td>
+<td><a href="A6c2.pdf">.pdf</a></td>
+<td><a href="A6c2.mp3">.mp3</a></td>
+<td>Schumann, Dichterliebe, op. 48 no. 12, mm. 1-3</td>
+</tr>
+<tr> 
+<td>A6d2</td>
+<td><a href="A6d2.html" target="_blank">.swf</a></td>
+<td><a href="A6d2.pdf">.pdf</a></td>
+<td><a href="A6d2.mp3">.mp3</a></td>
+<td>Schumann, Novelette, op. 21 no. 4, mm. 186-189</td>
+</tr>
+<tr> 
+<td>A6e2</td>
+<td><a href="A6e2.html" target="_blank">.swf</a></td>
+<td><a href="A6e2.pdf">.pdf</a></td>
+<td><a href="A6e2.mp3">.mp3</a></td>
+<td>Beethoven, Piano Sonata in f minor, op. 57, mvt. 2, mm. 1-8</td>
+</tr>
+<tr> 
+<td>A6g2</td>
+<td><a href="A6g2.html" target="_blank">.swf</a></td>
+<td><a href="A6g2.pdf">.pdf</a></td>
+<td><a href="A6g2.mp3">.mp3</a></td>
+<td>Tchaikovsky, Romeo and Juliet, mm. 250-262</td>
+</tr>
+<tr> 
+<td>A6i2</td>
+<td><a href="A6i2.html" target="_blank">.swf</a></td>
+<td><a href="A6i2.pdf">.pdf</a></td>
+<td><a href="A6i2.mp3">.mp3</a></td>
+<td>Schubert, Schwanengesang, D. 957 no. 12, &quot;Am Meer&quot;, mm. 
+    1-3 </td>
+</tr>
+<tr> 
+<td>A6j2</td>
+<td><a href="A6j2.html" target="_blank">.swf</a></td>
+<td><a href="A6j2.pdf">.pdf</a></td>
+<td>.<a href="25A6/A6j2.mp3">mp3</a></td>
+<td>Beethoven, Piano Concerto no. 4 in G Major, op. 58, mvt. 1, mm. 286-290</td>
+</tr>
+<tr> 
+<td>A6k2</td>
+<td><a href="A6k2.html" target="_blank">.swf</a></td>
+<td><a href="A6k2.pdf">.pdf</a></td>
+<td><a href="A6k2.mp3">.mp3</a></td>
+<td>Liszt, Piano Concerto no. 2 in A Major, mm. 1-4</td>
+</tr>
+<tr> 
+<td>A6l2</td>
+<td><a href="A6l2.html" target="_blank">.swf</a></td>
+<td><a href="A6l2.pdf">.pdf</a></td>
+<td><a href="A6l2.mp3">.mp3</a></td>
+<td>Schubert, Piano Sonata in C Major, D. 840, mvt. 1, mm. 1-28</td>
+</tr>
+<tr> 
+<td height="25">A6m2</td>
+<td><a href="A6m2.html" target="_blank">.swf</a></td>
+<td><a href="A6m2.pdf">.pdf</a></td>
+<td><a href="A6m2.mp3">.mp3</a></td>
+<td>Schubert, 36 Originalt&auml;nze, D. 365, no. 14 (all)</td>
+</tr>
+<tr> 
+<td height="25">A6n2</td>
+<td><a href="A6n2.html" target="_blank">.swf</a></td>
+<td><a href="A6n2.pdf">.pdf</a></td>
+<td><a href="A6n2.mp3">.mp3</a></td>
+<td>Chopin, Prelude in e minor, op. 28 no. 4, mm. 19-25</td>
+</tr>
+<tr> 
+<td height="25">A6o2</td>
+<td><a href="A6o2.html" target="_blank">.swf</a></td>
+<td><a href="A6o2.pdf">.pdf</a></td>
+<td><a href="A6o2.mp3">.mp3</a></td>
+<td>Chopin, Etude in e minor, op. 25 no. 5, mm. 37-45</td>
+</tr>
+<tr> 
+<td height="25">A6p2</td>
+<td><a href="A6p2.html" target="_blank">.swf</a></td>
+<td><a href="A6p2.pdf">.pdf</a></td>
+<td><a href="A6p2.mp3">.mp3</a></td>
+<td>Chopin, Mazurka in a minor, op. 67 no. 4, mm. 1-16</td>
+</tr>
+<tr> 
+<td height="25">A6q2</td>
+<td><a href="A6q2.html" target="_blank">.swf</a></td>
+<td><a href="A6q2.pdf">.pdf</a></td>
+<td><a href="A6q2.mp3">.mp3</a></td>
+<td>Chopin, Prelude in f minor, op. 28 no. 18, mm. 15-21</td>
+</tr>
+<tr> 
+<td height="25">A6r2</td>
+<td><a href="A6r2.html" target="_blank">.swf</a></td>
+<td><a href="A6r2.pdf">.pdf</a></td>
+<td><a href="A6r2.mp3">.mp3</a></td>
+<td>Schubert, Piano Sonata in a minor, D. 537, mvt. 3, mm. 1-21</td>
+</tr>
+<tr> 
+<td height="25">A6s2</td>
+<td><a href="A6s2.html" target="_blank">.swf</a></td>
+<td><a href="A6s2.pdf">.pdf</a></td>
+<td><a href="A6s2.mp3">.mp3</a></td>
+<td>Schubert, Piano Sonata in a minor, D. 845, mvt. 1, mm. 1-26</td>
+</tr>
+<tr> 
+<td height="25">A6t2</td>
+<td><a href="A6t2.html" target="_blank">.swf</a></td>
+<td><a href="A6t2.pdf">.pdf</a></td>
+<td><a href="A6t2.mp3">.mp3</a></td>
+<td>Schumann, Piano Concerto in a minor, op. 54, mvt. 1, mm. 389-399</td>
+</tr>
+<tr> 
+<td height="25">A6u2</td>
+<td><a href="A6u2.html" target="_blank">.swf</a></td>
+<td><a href="A6u2.pdf">.pdf</a></td>
+<td><a href="A6u2.mp3">.mp3</a></td>
+<td>Mozart, Piano Trio in G Major, K. 496, mvt. 2, mm. 81-87</td>
+</tr>
+<tr> 
+<td height="25">A6v2</td>
+<td><a href="A6v2.html" target="_blank">.swf</a></td>
+<td><a href="A6v2.pdf">.pdf</a></td>
+<td><a href="A6v2.mp3">.mp3</a></td>
+<td>Brahms, &quot;Parole&quot;, op. 7 no. 2, mm. 1-16</td>
+</tr>
+<tr> 
+<td height="25">A6w2</td>
+<td><a href="A6w2.html" target="_blank">.swf</a></td>
+<td><a href="A6w2.pdf">.pdf</a></td>
+<td><a href="A6w2.mp3">.mp3</a></td>
+<td>Mendelssohn, Song without Words, op. 19 no. 5, mm. 46-58</td>
+</tr>
+<tr> 
+<td height="25">A6x2</td>
+<td><a href="A6x2.html" target="_blank">.swf</a></td>
+<td><a href="A6x2.pdf">.pdf</a></td>
+<td><a href="A6x2.mp3">.mp3</a></td>
+<td>Chopin, Polonaise in A-flat Major, op. 53, mm. 95-101</td>
+</tr>
+<tr> 
+<td height="25">A6y2</td>
+<td><a href="A6y2.html" target="_blank">.swf</a></td>
+<td><a href="A6y2.pdf">.pdf</a></td>
+<td><a href="A6y2.mp3">.mp3</a></td>
+<td>Haydn, Cello Concerto in C Major, mvt. 2, mm. 64-72</td>
+</tr>
+<tr> 
+<td height="25">A6z2</td>
+<td><a href="A6z2.html" target="_blank">.swf</a></td>
+<td><a href="A6z2.pdf">.pdf</a></td>
+<td><a href="A6z2.mp3">.mp3</a></td>
+<td>Beethoven, Piano Concerto no. 1 in C Major, op. 15, mvt. 3, mm. 456-469</td>
+</tr>
+<tr> 
+<td height="25">A6b3</td>
+<td><a href="A6b3.html" target="_blank">.swf</a></td>
+<td><a href="A6b3.pdf">.pdf</a></td>
+<td><a href="A6b3.mp3">.mp3</a></td>
+<td>Haydn, Piano Trio in D Major, Hob. XV: 16, mvt. 1, mm. 163-173</td>
+</tr>
+<tr> 
+<td height="25">A6c3</td>
+<td><a href="A6c3.html" target="_blank">.swf</a></td>
+<td><a href="A6c3.pdf">.pdf</a></td>
+<td><a href="A6c3.mp3">.mp3</a></td>
+<td>Beethoven, Violin Sonata no. 7 in c minor, op. 30 no. 2, mvt. 4, mm. 
+    256-270 </td>
+</tr>
+<tr> 
+<td height="25">A6d3</td>
+<td><a href="A6d3.html" target="_blank">.swf</a></td>
+<td><a href="A6d3.pdf">.pdf</a></td>
+<td><a href="A6d3.mp3">.mp3</a></td>
+<td>Saint-Sa&euml;ns, Cello Concerto no. 1 in a minor, op. 33, mm. 59-79</td>
+</tr>
+<tr> 
+<td height="25">A6e3</td>
+<td><a href="A6e3.html" target="_blank">.swf</a></td>
+<td><a href="A6e3.pdf">.pdf</a></td>
+<td><a href="A6e3.mp3">.mp3</a></td>
+<td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 2, mm. 23-31</td>
+</tr>
+<tr> 
+<td height="25">A6f3</td>
+<td><a href="A6f3.html" target="_blank">.swf</a></td>
+<td><a href="A6f3.pdf">.pdf</a></td>
+<td><a href="A6f3.mp3">.mp3</a></td>
+<td>Brahms, German Requiem, op. 45, mvt. 1, mm. 96-106</td>
+</tr>
+<tr> 
+<td height="25">A6g3</td>
+<td><a href="A6g3.html" target="_blank">.swf</a></td>
+<td><a href="A6g3.pdf">.pdf</a></td>
+<td><a href="A6g3.mp3">.mp3</a></td>
+<td>Chopin, Etude in A-flat Major, op. 10 no. 10, mm. 29-35</td>
+</tr>
+<tr> 
+<td height="25">A6h3</td>
+<td><a href="A6h3.html" target="_blank">.swf</a></td>
+<td><a href="A6h3.pdf">.pdf</a></td>
+<td><a href="A6h3.mp3">.mp3</a></td>
+<td>Chopin, Prelude in B-flat Major, op. 28 no. 21, mm. 17-34</td>
+</tr>
+<tr> 
+<td height="25">A6i3</td>
+<td><a href="A6i3.html">.swf</a></td>
+<td><a href="A6i3.pdf">.pdf</a></td>
+<td><a href="A6i3.mp3">.mp3</a></td>
+<td>Beethoven, Violin Sonata no. 10 in G Major, op. 96, mvts. 2 and 3</td>
+</tr>
+<tr> 
+<td height="25">A6j3</td>
+<td><a href="A6j3.html" target="_blank">.swf</a></td>
+<td><a href="A6j3.pdf">.pdf</a></td>
+<td><a href="A6j3.mp3">.mp3</a></td>
+<td>Mozart, Piano Sonata in a minor, K. 310, mvt. 1, mm. 50-58</td>
+</tr>
+<tr> 
+<td height="25">A6k3</td>
+<td><a href="A6k3.html" target="_blank">.swf</a></td>
+<td><a href="A6k3.pdf">.pdf</a></td>
+<td><a href="A6k3.mp3">.mp3</a></td>
+<td>Mozart, Symphony no. 41 in C Major, K. 551, mvt. 4, mm. 241-254</td>
+</tr>
+<tr> 
+<td height="25">A6l3</td>
+<td><a href="A6l3.html">.swf</a></td>
+<td><a href="A6l3.pdf">.pdf</a></td>
+<td><a href="A6l3.mp3">.mp3</a></td>
+<td>Brahms, Symphony no. 4 in e minor, op. 98, mvt. 3, mm. 72-85</td>
+</tr>
+<tr> 
+<td height="25">A6m3</td>
+<td><a href="A6m3.html" target="_blank">.swf</a></td>
+<td><a href="A6m3.pdf">.pdf</a></td>
+<td><a href="A6m3.mp3">.mp3</a></td>
+<td>Schubert, Schwanengesang, D. 957 no. 3, &quot;Der Doppelg&auml;nger&quot;, 
+    mm. 34-43</td>
+</tr>
+</table>
+
+## French 4/3
+
+<table  class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<tr> 
+<td>A6n3</td>
+<td><a href="25A6/A6n3.html" target="_blank">.swf</a></td>
+<td><a href="25A6/A6n3.pdf">.pdf</a></td>
+<td><a href="25A6/A6n3.mp3">.mp3</a></td>
+<td>Brahms, Variations of a Theme by Paganini, op. 35, Book 
+    I, mm. 5-16</td>
+</tr>
+<tr> 
+<td>A6o3</td>
+<td><a href="A6o3.html" target="_blank">.swf</a></td>
+<td><a href="A6o3.pdf">.pdf</a></td>
+<td><a href="A6o3.mp3">.mp3</a></td>
+<td>Chopin, Etude in a minor, op. 10 no. 2, mm. 1-6</td>
+</tr>
+<tr> 
+<td>A6q3</td>
+<td><a href="A6q3.html" target="_blank">.swf</a></td>
+<td><a href="A6q3.pdf">.pdf</a></td>
+<td><a href="A6q3.mp3">.mp3</a></td>
+<td>Beethoven, Violin Sonata no. 9 in A Major, op. 47, mvt. 1, mm. 412-430</td>
+</tr>
+<tr> 
+<td>A6r3</td>
+<td><a href="A6r3.html" target="_blank">.swf</a></td>
+<td><a href="A6r3.pdf">.pdf</a></td>
+<td><a href="A6r3.mp3">.mp3</a></td>
+<td>Schubert, Sonata for Violin and Piano in A Major, D. 574, mvt. 3, 
+    mm. 30-40</td>
+</tr>
+<tr> 
+<td>A6s3</td>
+<td><a href="A6s3.html" target="_blank">.swf</a></td>
+<td><a href="A6s3.pdf">.pdf</a></td>
+<td><a href="A6s3.mp3">.mp3</a></td>
+<td>Schubert, Zw&ouml;lf Wiener Deutsche, D. 128 no. 6, mm. 1-12</td>
+</tr>
+<tr> 
+<td>A6t3</td>
+<td><a href="A6t3.html" target="_blank">.swf</a></td>
+<td><a href="A6t3.pdf">.pdf</a></td>
+<td><a href="A6t3.mp3">.mp3</a></td>
+<td>Chopin, Prelude in c minor, op. 28 no. 20, mm. 5-7</td>
+</tr>
+<tr> 
+<td>A6u3</td>
+<td><a href="A6u3.html" target="_blank">.swf</a></td>
+<td><a href="A6u3.pdf">.pdf</a></td>
+<td><a href="A6u3.mp3">.mp3</a></td>
+<td>Chopin, Etude in E Major, op. 10 no. 3, mm. 67-73</td>
+</tr>
+<tr> 
+<td>A6v3</td>
+<td><a href="A6v3.html" target="_blank">.swf</a></td>
+<td><a href="A6v3.pdf">.pdf</a></td>
+<td><a href="A6v3.mp3">.mp3</a></td>
+<td>Schubert, Sonatina for Violin and Piano in D Major, D. 384, mvt. 1, 
+    mm. 154-170</td>
+</tr>
+<tr> 
+<td>A6y3</td>
+<td><a href="A6y3.html" target="_blank">.swf</a></td>
+<td><a href="A6y3.pdf">.pdf</a></td>
+<td><a href="A6y3.mp3">.mp3</a></td>
+<td>Chopin, Mazurka in c-sharp minor, op. 30 no. 4, mm. 1-5</td>
+</tr>
+<tr> 
+<td>A6z3</td>
+<td><a href="A6z3.html" target="_blank">.swf</a></td>
+<td><a href="A6z3.pdf">.pdf</a></td>
+<td><a href="A6z3.mp3">.mp3</a></td>
+<td>Schubert, Die Winterreise, D. 911 no. 20, &quot;Der Wegweiser&quot;, 
+    mm. 1-5</td>
+</tr>
+<tr> 
+<td>A6b4</td>
+<td><a href="A6b4.html" target="_blank">.swf</a></td>
+<td><a href="A6b4.pdf">.pdf</a></td>
+<td><a href="A6b4.mp3">.mp3</a></td>
+<td>Schubert, &quot;Wanderer&quot; Fantasy, D. 760, mvt. 1, mm. 9-18</td>
+</tr>
+<tr> 
+<td>A6c4</td>
+<td><a href="A6c4.html" target="_blank">.swf</a></td>
+<td><a href="A6c4.pdf">.pdf</a></td>
+<td><a href="A6c4.mp3">.mp3</a></td>
+<td>Grieg, Peer Gynt Suite no. 1, op. 46, mvt. 2, mm. 1-8</td>
+</tr>
+<tr> 
+<td>A6e4</td>
+<td><a href="A6e4.html" target="_blank">.swf</a></td>
+<td><a href="A6e4.pdf">.pdf</a></td>
+<td><a href="A6e4.mp3">.mp3</a></td>
+<td>Schubert, String Quintet in C Major, D. 956, mvt. 4, mm. 416-429</td>
+</tr>
+<tr> 
+<td height="25">A6f4</td>
+<td><a href="A6f4.html" target="_blank">.swf</a></td>
+<td><a href="A6f4.pdf">.pdf</a></td>
+<td><a href="A6f4.mp3">.mp3</a></td>
+<td>Grieg, Lyric Piece, op. 47 no. 3, mm. 37-42</td>
+</tr>
+</table>
+
+## Combinations
+
+<table  class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
+<tr> 
+<td>A6g4</td>
+<td><a href="25A6/A6g4.html" target="_blank">.swf</a></td>
+<td><a href="25A6/A6g4.pdf">.pdf</a></td>
+<td><a href="25A6/A6g4.mp3">.mp3</a></td>
+<td>Beethoven, Bagatelle, op. 33 no. 4, mm. 16-31</td>
+</tr>
+<tr> 
+<td>A6h4</td>
+<td><a href="A6h4.html" target="_blank">.swf</a></td>
+<td><a href="A6h4.pdf">.pdf</a></td>
+<td><a href="A6h4.mp3">.mp3</a></td>
+<td>Beethoven, Bagatelle, op. 33 no. 5, mm. 24-31</td>
+</tr>
+<tr> 
+<td>A6j4</td>
+<td><a href="A6j4.html" target="_blank">.swf</a></td>
+<td><a href="A6j4.pdf">.pdf</a></td>
+<td><a href="A6j4.mp3">.mp3</a></td>
+<td>Beethoven, &quot;Vom Tode&quot;, op. 48 no. 3, mm. 1-18</td>
+</tr>
+<tr> 
+<td>A6k4</td>
+<td><a href="A6k4.html" target="_blank">.swf</a></td>
+<td><a href="A6k4.pdf">.pdf</a></td>
+<td><a href="A6k4.mp3">.mp3</a></td>
+<td>Mozart, Piano Sonata in a minor, K. 310, mvt. 1, mm. 69-79</td>
+</tr>
+<tr> 
+<td>A6l4</td>
+<td><a href="A6l4.html" target="_blank">.swf</a></td>
+<td><a href="A6l4.pdf">.pdf</a></td>
+<td><a href="A6l4.mp3">.mp3</a></td>
+<td>Mozart, The Magic Flute, &quot;Act, ich f&uuml;hl's", mm. 1-7</td>
+</tr>
+<tr> 
+<td>A6m4</td>
+<td><a href="A6m4.html" target="_blank">.swf</a></td>
+<td><a href="A6m4.pdf">.pdf</a></td>
+<td><a href="A6m4.mp3">.mp3</a></td>
+<td>Mozart, String Quartet in d minor, K. 173, mvt. 1, mm. 103-118</td>
+</tr>
+<tr> 
+<td>A6n4</td>
+<td><a href="A6n4.html" target="_blank">.swf</a></td>
+<td><a href="A6n4..pdf">.pdf</a></td>
+<td><a href="A6n4.mp3">.mp3</a></td>
+<td>Schumann, Piano Trio no. 1 in d minor, op. 63, mvt. 3, mm. 50-57</td>
+</tr>
+<tr> 
+<td>A6o4</td>
+<td><a href="A6o4.html" target="_blank">.swf</a></td>
+<td><a href="A6o4.pdf">.pdf</a></td>
+<td><a href="A6o4.mp3">.mp3</a></td>
+<td>Sibelius, Finlandia, op. 26, mm. 1-23</td>
+</tr>
+<tr> 
+<td>A6p4</td>
+<td><a href="A6p4.html" target="_blank">.swf</a></td>
+<td><a href="A6p4.pdf">.pdf</a></td>
+<td><a href="A6p4.mp3">.mp3</a></td>
+<td>Grieg, Ballade, op. 24, mm. 1-8</td>
+</tr>
+<tr> 
+<td>A6q4</td>
+<td><a href="A6q4.html" target="_blank">.swf</a></td>
+<td><a href="A6q4.pdf">.pdf</a></td>
+<td><a href="A6q4.mp3">.mp3</a></td>
+<td>Chopin, Prelude in A-flat Major, op. 28 no. 17, mm. 19-27</td>
+</tr>
+</table>
