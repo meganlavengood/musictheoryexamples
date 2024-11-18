@@ -15,31 +15,23 @@ date: 2024-11-15 15:02:18 -0500
   </thead>
   <tbody>
     <tr>
-      <td>Ex.a</td>
-
-      <td><a href="mixture/mixa.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixa.mov">.mov</a></td>
+      <td><a href="mixture/mixa.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Mozart, Piano Sonata in C Major, K. 330, mvt. 1, mm. 145-150</td>
     </tr>
     <tr>
-      <td>Ex.c</td>
-
-      <td><a href="mixc.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixc.mov">.mov</a></td>
+      <td><a href="mixc.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Beethoven, Piano Concerto No. 5 in E-flat Major, op. 73, mvt. 2, mm. 28-32</td>
     </tr>
     <tr>
-      <td>Ex.d</td>
-
-      <td><a href="mixd.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixd.mov">.mov</a></td>
+      <td><a href="mixd.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Schubert, &quot;Du bist die Ruh,&quot; mm. 25-30</td>
     </tr>
     <tr>
-      <td>Ex.f</td>
-
-      <td><a href="mixf.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixf.mov">.mov</a></td>
+      <td><a href="mixf.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Chopin, Mazurka in f minor, op. 63 no. 2, mm. 49-56</td>
     </tr>
 
@@ -57,130 +49,94 @@ date: 2024-11-15 15:02:18 -0500
   </thead>
   <tbody>
     <tr>
-      <td>Ex.h</td>
-
-      <td><a href="mixture/mixh.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixh.mov">.mov</a></td>
+      <td><a href="mixture/mixh.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Schubert, Sonata for Piano and Violin in A Major, op.
         162, mvt. 3, mm. 87-92</td>
     </tr>
     <tr>
-      <td>Ex.i</td>
-
-      <td><a href="mixture/mixi.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixi.mov">.mov</a></td>
+      <td><a href="mixture/mixi.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Beethoven, Piano Sonata in F-sharp Major, op. 78, mvt. 2, mm. 116-124</td>
     </tr>
     <tr>
-      <td>Ex.j</td>
-
-      <td><a href="mixture/mixj.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixj.mov">.mov</a></td>
+      <td><a href="mixture/mixj.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Brahms, Ballade in B Major, op. 10 no. 4, mm. 1-4</td>
     </tr>
     <tr>
-      <td>Ex.k</td>
-
-      <td><a href="mixture/mixk.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixk.mov">.mov</a></td>
+      <td><a href="mixture/mixk.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Bruckner, Symphony no. 8 in c minor, mvt. 3, mm. 1-6</td>
     </tr>
     <tr>
-      <td>Ex.l</td>
-
-      <td><a href="mixture/mixl.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixl.mov">.mov</a></td>
+      <td><a href="mixture/mixl.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Schubert, Piano Sonata in A Major, D. 664, mm. 50-75</td>
     </tr>
     <tr>
-      <td>Ex.n</td>
-
-      <td><a href="mixture/mixn.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixn.mov">.mov</a></td>
+      <td><a href="mixture/mixn.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Schubert, String Quartet in G Major, op. 161. mvt. 1, mm. 1-10</td>
     </tr>
     <tr>
-      <td>Ex.o</td>
-
-      <td><a href="mixture/mixo.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixo.mov">.mov</a></td>
+      <td><a href="mixture/mixo.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Schubert, String Quartet in G Major, op. 161. mvt. 1, mm. 435-444</td>
     </tr>
     <tr>
-      <td>Ex.p</td>
-
-      <td><a href="mixture/mixp.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixp.mov">.mov</a></td>
+      <td><a href="mixture/mixp.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Chopin, Nocturne in A-flat Major, op. 32 no. 2, mm. 1-2</td>
     </tr>
     <tr>
-      <td>Ex.q</td>
-
-      <td><a href="mixture/mixq.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixq.mov">.mov</a></td>
+      <td><a href="mixture/mixq.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Dvorak, Cello Concerto in b minor, op. 104, mvt. 1, mm. 346-348</td>
     </tr>
     <tr>
-      <td>Ex.r</td>
-
-      <td><a href="mixture/mixr.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixr.mov">.mov</a></td>
+      <td><a href="mixture/mixr.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Paradis, Sicilienne, mm. 1-6</td>
     </tr>
     <tr>
-      <td>Ex.s</td>
-
-      <td><a href="mixture/mixs.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixs.mov">.mov</a></td>
+      <td><a href="mixture/mixs.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Chopin, Polonaise in A-flat Major, op. 53, mm. 175-181</td>
     </tr>
     <tr>
-      <td>Ex.t</td>
-
-      <td><a href="mixture/mixt.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixt.mov">.mov</a></td>
+      <td><a href="mixture/mixt.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Mozart, Piano Quartet in g minor, K. 478, mvt. 3, mm. 338-351</td>
     </tr>
     <tr>
-      <td>Ex.u</td>
-
-      <td><a href="mixture/mixu.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixu.mov">.mov</a></td>
+      <td><a href="mixture/mixu.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Wagner, Overture to &quot;The Flying Dutchman,&quot; mm. 387-398</td>
     </tr>
     <tr>
-      <td>Ex.v</td>
-
-      <td><a href="mixture/mixv.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixv.mov">.mov</a></td>
+      <td><a href="mixture/mixv.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Chopin, Mazurka in b-flat minor, op. 24 no. 4, mm. 131-146</td>
     </tr>
     <tr>
-      <td>Ex.w</td>
-
-      <td><a href="mixture/mixw.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixw.mov">.mov</a></td>
+      <td><a href="mixture/mixw.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Gershwin, Rhapsody in Blue, mm. 1-6</td>
     </tr>
     <tr>
-      <td>Ex.x</td>
-
-      <td><a href="mixture/mixx.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixx.mov">.mov</a></td>
+      <td><a href="mixture/mixx.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Brahms, Symphony no. 3 in F Major, Op. 90, mvt. 1, mm.1-7</td>
     </tr>
     <tr>
-      <td>Ex.y</td>
-
-      <td><a href="mixture/mixy.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixy.mov">.mov</a></td>
+      <td><a href="mixture/mixy.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Brahms, Symphony no. 3 in F Major, Op. 90, mvt. 2, mm.128-134</td>
     </tr>
     <tr>
-      <td>Ex.z</td>
-
-      <td><a href="mixture/mixz.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixz.mov">.mov</a></td>
+      <td><a href="mixture/mixz.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Mahler, Symphony no. 2 in c minor, mvt. 1, mm. 433-445</td>
     </tr>
 
@@ -198,52 +154,40 @@ date: 2024-11-15 15:02:18 -0500
   </thead>
   <tbody>
     <tr>
-      <td>Ex.a1</td>
-
-      <td><a href="mixture/mixa1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixa1.mov">.mov</a></td>
+      <td><a href="mixture/mixa1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Bach, Concerto for Two Violins in d minor, BWV 1043, mvt.
         1, mm. 85-88</td>
     </tr>
     <tr>
-      <td>Ex.b1</td>
-
-      <td><a href="mixb1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixb1.mov">.mov</a></td>
+      <td><a href="mixb1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Chopin Nocturne in c-sharp minor (1830), mm. 57-65<br>
         (discrepancies between score and sound)</td>
     </tr>
     <tr>
-      <td>Ex.c1</td>
-
-      <td><a href="mixc1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixc1.mov">.mov</a></td>
+      <td><a href="mixc1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Brahms, &quot;Ankl&auml;nge,&quot; op. 7 no. 3, mm. 33-44</td>
     </tr>
     <tr>
-      <td>Ex.d1</td>
-
-      <td><a href="mixd1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixd1.mov">.mov</a></td>
+      <td><a href="mixd1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Dvorak, Symphony no. 7 in d minor, op. 70, mm. 425-434<br>
         (listen to wrong note in m. 430!)</td>
     </tr>
     <tr>
-      <td>Ex.e1</td>
-
-      <td><a href="mixe1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixe1.mov">.mov</a></td>
+      <td><a href="mixe1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Brahms, Piano Trio no. 2 in C Major, op. 87, mvt. 3, mm. 165-175</td>
     </tr>
     <tr>
-      <td>Ex.g1</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><a href="mixg1.mov">.mov</a></td>
       <td>Orff, Carmina Burana, mvt. 1 (end) <strong>sound only</strong></td>
     </tr>
     <tr>
-      <td>Ex.h1</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td><a href="mixh1.mov">.mov</a></td>
@@ -251,7 +195,6 @@ date: 2024-11-15 15:02:18 -0500
           only</strong></td>
     </tr>
     <tr>
-      <td>Ex.i1</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -262,7 +205,6 @@ date: 2024-11-15 15:02:18 -0500
       </td>
     </tr>
     <tr>
-      <td>Ex.j1</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
       <td>&nbsp;</td>
@@ -284,24 +226,18 @@ date: 2024-11-15 15:02:18 -0500
   </thead>
   <tbody>
     <tr>
-      <td>Ex.k1</td>
-
-      <td><a href="mixture/mixk1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixk1.mov">.mov</a></td>
+      <td><a href="mixture/mixk1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Chopin, Fantasy in f minor, op. 49, mm. 326-332</td>
     </tr>
     <tr>
-      <td>Ex.l1</td>
-
-      <td><a href="mixl1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixl1.mov">.mov</a></td>
+      <td><a href="mixl1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Liszt, Transcendental Etude no. 4., mm. 196-202</td>
     </tr>
     <tr>
-      <td>Ex.m1</td>
-
-      <td><a href="mixm1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixm1.mov">.mov</a> </td>
+      <td><a href="mixm1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Schubert, Mass no. 6 in E-flat Major, D. 950, mvt. 1, mm. 158-164</td>
     </tr>
 
@@ -319,18 +255,14 @@ date: 2024-11-15 15:02:18 -0500
   </thead>
   <tbody>
     <tr>
-      <td>Ex.o1</td>
-
-      <td><a href="mixture/mixo1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixo1.mov">.mov</a></td>
+      <td><a href="mixture/mixo1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Beethoven, Piano Trio in E-flat major, op. 70 no. 2, mvt.
         3, mm. 87-109</td>
     </tr>
     <tr>
-      <td>Ex.p1</td>
-
-      <td><a href="mixp1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href=mixture/mixp1.mov>.mov</a></td>
+      <td><a href="mixp1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Rachmaninoff, Prelude in F Major, op. 32 no. 7, mm. 41-45</td>
     </tr>
 
@@ -348,24 +280,18 @@ date: 2024-11-15 15:02:18 -0500
   </thead>
   <tbody>
     <tr>
-      <td>Ex.q1</td>
-
-      <td><a href="mixture/mixq1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixq1.mov">.mov</a></td>
+      <td><a href="mixture/mixq1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Brahms, &quot;Lied,&quot; op. 3 no.4, mm. 41-48</td>
     </tr>
     <tr>
-      <td>Ex.r1</td>
-
-      <td><a href="mixr1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixture/mixr1.mov">.mov</a></td>
+      <td><a href="mixr1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Prokofiev, Violin Sonata no. 1 in f minor, op. 80, mvt. 4, mm. 223-233</td>
     </tr>
     <tr>
-      <td>Ex.s1</td>
-
-      <td><a href="mixs1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="mixs1.mov">.mov</a> </td>
+      <td><a href="mixs1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Walton, Viola Concerto, mvt. 3, mm. 297-301</td>
     </tr>
 
@@ -398,7 +324,7 @@ date: 2024-11-15 15:02:18 -0500
         </ol>
 
         <p><strong>Flat VI:</strong> Mahler, Symphony no. 1 in D Major, mvt.
-          2. </p>
+          1. </p>
 
         <p><strong>Flat III:</strong> Haydn, Symphony no. 103 in E-flat Major,
           mvt. 3.<br>
