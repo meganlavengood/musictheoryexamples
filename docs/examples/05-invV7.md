@@ -4,7 +4,8 @@ title: "Inversions of V7"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-<h4>Mostly I-V<sup>6/5</sup>-I (major mode)</h4>
+## Mostly I-V<sup>6/5</sup>-I (major mode)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -125,7 +126,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Mostly i-V<sup>6/5</sup>-i (minor mode) </h4>
+## Mostly i-V<sup>6/5</sup>-i (minor mode)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -199,7 +201,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Beginning on V<sup>6/5</sup></h4>
+## Beginning on V<sup>6/5</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -248,7 +251,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4> I-V<sup>4/3</sup>-I<sup>6 </sup>(major mode)</h4>
+## I-V<sup>4/3</sup>-I<sup>6 </sup>(major mode)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -332,7 +336,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>I-V<sup>4/3</sup>-I<sup>6 </sup>(mostly minor mode)</h4>
+## I-V<sup>4/3</sup>-I<sup>6 </sup>(mostly minor mode)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -376,7 +381,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>I<sup>6</sup>-V<sup>4/3</sup>-I</h4>
+## I<sup>6</sup>-V<sup>4/3</sup>-I
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -410,7 +416,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>I-V<sup>4/3</sup>-I<sup>6 </sup> and I<sup>6</sup>-V<sup>4/3</sup>-I</h4>
+## I-V<sup>4/3</sup>-I<sup>6 </sup> and I<sup>6</sup>-V<sup>4/3</sup>-I
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -444,7 +451,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>I-V<sup>4/3</sup>-I</h4>
+## I-V<sup>4/3</sup>-I
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -508,7 +516,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>More with V<sup>4/3</sup></h4>
+## More with V<sup>4/3</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -542,7 +551,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Beginning on V<sup>4/3</sup></h4>
+## Beginning on V<sup>4/3</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -561,7 +571,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>4/2</sup>-I<sup>6</sup></h4>
+## V<sup>4/2</sup>-I<sup>6</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -585,7 +596,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>I-V<sup>4/2</sup>-I<sup>6</sup></h4>
+## I-V<sup>4/2</sup>-I<sup>6</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -614,7 +626,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>(7)</sup>-V<sup>4/2</sup>-I<sup>6</sup></h4>
+## V<sup>(7)</sup>-V<sup>4/2</sup>-I<sup>6</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -643,7 +656,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>6/4</sup>-V<sup>4/2</sup>-I<sup>6</sup></h4>
+## V<sup>6/4</sup>-V<sup>4/2</sup>-I<sup>6</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -667,7 +681,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Beginning on V<sup>4/2</sup></h4>
+## Beginning on V<sup>4/2</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -696,7 +711,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>&quot;V<sup>4/2</sup>&quot;-I</h4>
+## &quot;V<sup>4/2</sup>&quot;-I
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -740,7 +756,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>4/3</sup>and V<sup>6/5</sup></h4>
+## V<sup>4/3</sup>and V<sup>6/5</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -839,7 +856,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>6/5</sup>and V<sup>4/2</sup></h4>
+## V<sup>6/5</sup>and V<sup>4/2</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -883,7 +901,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>4/3</sup>and V<sup>4/2</sup></h4>
+## V<sup>4/3</sup>and V<sup>4/2</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -927,7 +946,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>6/5 </sup>,V<sup>4/3 </sup>and V<sup>4/2</sup></h4>
+## V<sup>6/5 </sup>,V<sup>4/3 </sup>and V<sup>4/2</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>

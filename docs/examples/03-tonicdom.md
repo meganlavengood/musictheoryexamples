@@ -6,7 +6,8 @@ date: 2024-11-15 15:02:18 -0500
 
 <h3>Chapter 3: I, V, V<sup>7</sup></h3>
 
-<h4>Root-position tonic </h4>
+## Root-position tonic
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>
@@ -49,7 +50,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>I and V </h4>
+## I and V
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>
@@ -179,7 +181,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>I and V<sup>7</sup></h4>
+## I and V<sup>7</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>
@@ -428,7 +431,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>Beginning on V<sup>7</sup></h4>
+## Beginning on V<sup>7</sup>
+
 <table class=" tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <tr>
         <td><a href="03-tonicdom/TDn.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -483,7 +487,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>V<sup> 7 </sup> as half cadence</h4>
+## V<sup> 7 </sup> as half cadence
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>
@@ -521,7 +526,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>Seventh resolves up</h4>
+## Seventh resolves up
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>
@@ -569,7 +575,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>I, V, and V<sup>7</sup> </h4>
+## I, V, and V<sup>7</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>
@@ -602,7 +609,8 @@ date: 2024-11-15 15:02:18 -0500
     </tbody>
 </table>
 
-<h4>Virtuoso School (I and V<sup>7</sup>)</h4>
+## Virtuoso School (I and V<sup>7</sup>)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
     <thead>
         <tr>

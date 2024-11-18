@@ -4,7 +4,8 @@ title: "Mixture"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-<h4>Pitches</h4>
+## Pitches
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -38,7 +39,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Harmonies </h4>
+## Harmonies
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -143,7 +145,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Picardy Third </h4>
+## Picardy Third
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -183,12 +186,10 @@ date: 2024-11-15 15:02:18 -0500
     </tr>
     <tr>
       <td></td>
-      <td></td>
       <td><a href="19-mixture/mixg1.mov">.mov</a></td>
       <td>Orff, Carmina Burana, mvt. 1 (end) <strong>sound only</strong></td>
     </tr>
     <tr>
-      <td></td>
       <td></td>
       <td><a href="19-mixture/mixh1.mov">.mov</a></td>
       <td>Beethoven, String Quartet in c minor, op. 16 no. 4, mvt. 4 (end) <strong>sound
@@ -197,15 +198,11 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td></td>
       <td></td>
-      <td></td>
-      <td>
-
-        <p>Saint-Sa&euml;ns, Cello Concerto no. 1 in a minor, op. 33, mvt.
-          3 (end) <strong>no score, no sound</strong></p>
+      <td>Saint-Sa&euml;ns, Cello Concerto no. 1 in a minor, op. 33, mvt.
+          3 (end) <strong>no score, no sound</strong>
       </td>
     </tr>
     <tr>
-      <td></td>
       <td></td>
       <td></td>
       <td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 4 (entire) <strong>no
@@ -215,7 +212,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Plagal cadences/progressions </h4>
+## Plagal cadences/progressions
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -244,7 +242,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Enharmonic </h4>
+## Enharmonic
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -261,7 +260,7 @@ date: 2024-11-15 15:02:18 -0500
         3, mm. 87-109</td>
     </tr>
     <tr>
-      <td><a href=mixture/mixp1.mov>.mov</a></td>
+      <td><a href="mixture/mixp1.mov">.mov</a></td>
       <td><a href="19-mixture/mixp1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td>Rachmaninoff, Prelude in F Major, op. 32 no. 7, mm. 41-45</td>
     </tr>
@@ -269,7 +268,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Ambiguous Endings </h4>
+## Ambiguous Endings
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -298,33 +298,27 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Larger-scale Uses </h4>
+## Larger-scale Uses
 
-<p><strong>Major and minor tonic: </strong></p>
-<ol>
-  <li>Bach, Violin Partita no. 2 in d minor, BWV 1004, Chaconne</li>
-  <li>Beethoven, Symphony no. 7 in A major, op. 92, mvt. 2</li>
-  <li>Goldmark, Violin Concerto no. 1 in a minor, op. 28, mvt. 2</li>
-  <li>Schubert, &quot;Die Liebe Farbe&quot; (Die Sch&ouml;ne M&uuml;llerin
-    no. 16)</li>
-  <li>Schubert, St&auml;ndchen (Schwanengesang no. 4)</li>
-  <li>Chopin, Prelude in D-flat Major, op. 28 no. 15 (enharmonic)</li>
-</ol>
-<p><strong>Flat VI:</strong> Mahler, Symphony no. 1 in D Major, mvt.
-  1. </p>
-<p><strong>Flat III:</strong> Haydn, Symphony no. 103 in E-flat Major,
-  mvt. 3.<br>
-</p>
+Major and minor tonic:
 
-<h4>Reverse Picardy Endings (major-mode works ending in the parallel minor)
-</h4>
-<ol>
-  <li>Brahms, Rhapsodie, op. 119 no. 4</li>
-  <li>Chopin, Nocturne, op. 32 no. 1 (Although I have heard the final
-    chord with both D and D# on recordings, my Urtext score has the former)</li>
-  <li>Schubert, Impromptu no. 2 in E-flat, D. 899; Schubert, Moments musicaux
-    no. 6 in A-flat, D. 780</li>
-  <li>Mendelssohn, Symphony no. 4 in A Major, op. 90 (last movement in
-    minor); Strauss, Don Juan, op. 20;</li>
-  <li>Sibelius, Symphony no. 4 in a minor, op. 63, mvt. 4.</li>
-</ol>
+-   Bach, Violin Partita no. 2 in d minor, BWV 1004, Chaconne
+-   Beethoven, Symphony no. 7 in A major, op. 92, mvt. 2
+-   Goldmark, Violin Concerto no. 1 in a minor, op. 28, mvt. 2
+-   Schubert, &quot;Die Liebe Farbe&quot; (Die Sch&ouml;ne M&uuml;llerin no. 16)
+-   Schubert, St&auml;ndchen (Schwanengesang no. 4)
+-   Chopin, Prelude in D-flat Major, op. 28 no. 15 (enharmonic)
+
+$\rm{\flat VI}$: Mahler, Symphony no. 1 in D Major, mvt.
+
+$\rm{\flat III}$: Haydn, Symphony no. 103 in E-flat Major, mvt. 3.<br>
+
+## Reverse Picardy Endings
+
+Major-mode works ending in the parallel minor
+
+-   Brahms, Rhapsodie, op. 119 no. 4
+-   Chopin, Nocturne, op. 32 no. 1 (Although I have heard the final chord with both D and D# on recordings, my Urtext score has the former)
+-   Schubert, Impromptu no. 2 in E-flat, D. 899; Schubert, Moments musicaux no. 6 in A-flat, D. 780
+-   Mendelssohn, Symphony no. 4 in A Major, op. 90 (last movement inminor); Strauss, Don Juan, op. 20;
+-   Sibelius, Symphony no. 4 in a minor, op. 63, mvt. 4.

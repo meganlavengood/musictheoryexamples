@@ -7,7 +7,8 @@ date: 2024-11-15 15:02:18 -0500
 <p class="smalltextitalics">(Some examples contain multiple types of VII<sup>7</sup>
   chords. Not all examples may be deserving of true harmonic status.)</p>
 
-<h4>vii<sup>o7</sup></h4>
+## vii<sup>o7</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -87,7 +88,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>vii<sup>o6/5</sup></h4>
+## vii<sup>o6/5</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -138,7 +140,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>vii<sup>o4/3</sup></h4>
+## vii<sup>o4/3</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -172,7 +175,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>vii<sup>o4/2</sup></h4>
+## vii<sup>o4/2</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -204,7 +208,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>VII<sup>&oslash;7</sup></h4>
+## VII<sup>&oslash;7</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -255,7 +260,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>VII<sup>&oslash;6/5</sup></h4>
+## VII<sup>&oslash;6/5</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -274,7 +280,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>VII<sup>&oslash;</sup><sup>4/3</sup></h4>
+## VII<sup>&oslash;</sup><sup>4/3</sup>
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -324,7 +331,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Multiple inversions of VII<sup>7</sup>chords</h4>
+## Multiple inversions of VII<sup>7</sup>chords
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -363,7 +371,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>The close relationship between various types of V<sup>7</sup> and VII<sup>7</sup>chords</h4>
+## The close relationship between various types of V<sup>7</sup> and VII<sup>7</sup>chords
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>

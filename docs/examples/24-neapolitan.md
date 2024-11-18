@@ -4,7 +4,8 @@ title: "Neapolitan Chords (♭II)"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-<h4>Flat Scale Degree 2 </h4>
+## Flat Scale Degree 2
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -52,7 +53,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Straightforward Examples </h4>
+## Straightforward Examples
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -93,7 +94,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Unusual Examples </h4>
+## Unusual Examples
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -127,7 +129,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Tonicizing bII </h4>
+## Tonicizing bII
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>

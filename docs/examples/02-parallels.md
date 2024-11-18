@@ -4,7 +4,8 @@ title: "Parallel voice leading"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-<h4>Parallel fifths (good, interesting, debatable, bad)</h4>
+## Parallel fifths (good, interesting, debatable, bad)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -296,7 +297,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Parallel fifths between phrases</h4>
+## Parallel fifths between phrases
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -342,7 +344,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Enharmonic parallel fifths</h4>
+## Enharmonic parallel fifths
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -387,7 +390,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Rustic and coloristic parallel fifths</h4>
+## Rustic and coloristic parallel fifths
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -541,7 +545,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Diminished fifth-perfect fifth</h4>
+## Diminished fifth-perfect fifth
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -590,7 +595,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Fifth and octaves by contrary motion</h4>
+## Fifth and octaves by contrary motion
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -643,7 +649,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Avoided and almost parallel fifths</h4>
+## Avoided and almost parallel fifths
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -739,7 +746,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>&quot;Full-voiced&quot; textures (Johann David Heinichen)</h4>
+## &quot;Full-voiced&quot; textures (Johann David Heinichen)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -795,7 +803,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Parallel octaves</h4>
+## Parallel octaves
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -890,7 +899,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>From Brahms' notebook (fifths)</h4>
+## From Brahms' notebook (fifths)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -990,7 +1000,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>From Brahms' notebook (octaves)</h4>
+## From Brahms' notebook (octaves)
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>

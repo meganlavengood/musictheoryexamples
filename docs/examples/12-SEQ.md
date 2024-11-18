@@ -4,7 +4,8 @@ title: "Sequences"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-<h4>Descending fifths, 6/3 variant, etc.</h4>
+## Descending fifths, 6/3 variant, etc.
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -123,7 +124,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Ascending fifths</h4>
+## Ascending fifths
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -159,7 +161,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Descending 5-6 and root-position variant</h4>
+## Descending 5-6 and root-position variant
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -223,7 +226,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Ascending 5-6, etc.</h4>
+## Ascending 5-6, etc.
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -286,7 +290,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Others</h4>
+## Others
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>

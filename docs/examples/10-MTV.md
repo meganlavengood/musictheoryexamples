@@ -4,9 +4,10 @@ title: "Moving Toward V"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-<h4><em>Also see Chapter 21 and 22</em></h4>
+## <em>Also see Chapter 21 and 22</em>
 
-<h4>Beginning on the Applied Chord</h4>
+## Beginning on the Applied Chord
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -34,7 +35,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V of V</h4>
+## V of V
+
 <table class=" tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -58,7 +60,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>V<sup>7</sup> of V</h4>
+## V<sup>7</sup> of V
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -107,7 +110,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>vii<sup>06</sup> of V</h4>
+## vii<sup>06</sup> of V
+
 <table class=" tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -145,7 +149,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>More Applied Chords to V </h4>
+## More Applied Chords to V
+
 <table class=" tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -264,7 +269,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Applied Chords to V<sup>6/4</sup></h4>
+## Applied Chords to V<sup>6/4</sup>
+
 <table class=" tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
@@ -318,7 +324,8 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<h4>Broader Tonicizations and Modulations</h4>
+## Broader Tonicizations and Modulations
+
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
     <tr>
