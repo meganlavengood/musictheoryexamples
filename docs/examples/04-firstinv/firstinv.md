@@ -12,10 +12,10 @@ date:   2024-11-15 15:02:18 -0500
 | 63w | [.swf](63w.html) | [.pdf](63w.pdf) | [.mp3](63w.mp3) | Brahms, String Quintet no. 1 in F Major, op. 88, mvt. 3, mm. 1-3 |
 | 63x | [.swf](63x.html) | [.pdf](63x.pdf) | [.mp3](63x.mp3) | Brahms, Tragic Overture, op. 81, mm. 1-2 |
 | 63y | [.swf](63y.html) | [.pdf](63y.pdf) | [.mp3](63y.mp3) | Mendelssohn, Zwei Geistliche Choere, op. 115 no. 2, mm. 1-4 |
-| 63d | [.swf](63d.html) | [.pdf](63d.pdf) | [.mp4](63d.mp4) | Schumann, Papillons, op. 2, Finale, mm. 1-21 |
+| 63d | [.swf](63d.html) | [.pdf](63d.pdf) | [.mp3](63d.mp3) | Schumann, Papillons, op. 2, Finale, mm. 1-21 |
 | 63z | [.swf](63z.html) | [.pdf](63z.pdf) | [.mp3](63z.mp3) | Mozart, Piano Sonata in F Major, K. 533, mvt. 3 (K. 494), mm. 1-3 |
 | 63c1 | [.swf](63c1.html) | [.pdf](63c1.pdf) | [.mp3](63c1.mp3) | Mozart, Symphony no. 6 in F Major, K. 43, mvt. 3, Trio, mm. 1-8 |
-| 63a | [.swf](63a.swf) | [.pdf](63a.pdf) | [.mp4](63a.mp4) | Mozart, Piano Sonata in D Major, K. 576, mvt. 3, mm. 1-9 |
+| 63a | [.swf](63a.swf) | [.pdf](63a.pdf) | [.mp3](63a.mp3) | Mozart, Piano Sonata in D Major, K. 576, mvt. 3, mm. 1-9 |
 
 #### I6
 
@@ -23,18 +23,18 @@ date:   2024-11-15 15:02:18 -0500
 | --- | --- | --- | --- | --- |
 | 63e1 | [.swf](63e1.html) | [.pdf](63e1.pdf) | [.mp3](63e1.mp3) | Grieg, Peer Gynt Suite no. 1, op. 46, mvt. 2, mm. 1-8 |
 | 63g1 | [.swf](63g1.html) | [.pdf](63g1.pdf) | [.mp3](63g1.mp3) | Beethoven, Symphony no. 7 in A Major, op. 92, mvt. 1, mm. 23-26 |
-| 63l | [.swf](63l.html) | [.pdf](63l.pdf) | [.mp4](63l.mp4) | Mozart, Piano Sonata in F Major, K. 332, mvt. 1, mm. 12-22 |
+| 63l | [.swf](63l.html) | [.pdf](63l.pdf) | [.mp3](63l.mp3) | Mozart, Piano Sonata in F Major, K. 332, mvt. 1, mm. 12-22 |
 | 63i1 | [.swf](63i1.html) | [.pdf](63i1.pdf) | [.mp3](63i1.mp3) | Bruckner, Tantum Ergo no. 4, mm. 1-10 |
-| 63b | [.swf](63b.html) | [.pdf](63b.pdf) | [.mp4](63b.mp4) | Beethoven, Piano Sonata in E Major, op. 109, mvt. 3, mm. 1-8 |
-| 63c | [.swf](63c.html) | [.pdf](63c.pdf) | [.mp4](63c.mp4) | Beethoven, Piano Sonata in A-flat Major, op. 110, mvt.1, mm. 1-5 |
+| 63b | [.swf](63b.html) | [.pdf](63b.pdf) | [.mp3](63b.mp3) | Beethoven, Piano Sonata in E Major, op. 109, mvt. 3, mm. 1-8 |
+| 63c | [.swf](63c.html) | [.pdf](63c.pdf) | [.mp3](63c.mp3) | Beethoven, Piano Sonata in A-flat Major, op. 110, mvt.1, mm. 1-5 |
 | 63j1 | [.swf](63j1.html) | [.pdf](63j1.pdf) | [.mp3](63j1.mp3) | Schubert, Symphony no. 8 in b minor, D. 759, mvt. 1, mm. 360-368 |
 
 #### Ending on "I6"
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| 63f | [.swf](63f.html) | [.pdf](63f.pdf) | [.mp4](63f.mp4) | Mozart (?), Duo for Two Horns, K. 487 (all) |
-| 63e | [.swf](63e.html) | [.pdf](63e.pdf) | [.mp4](63e.mp4) | Paganini, Caprice in E Major, op. 1 no. 9, mm. 95-111 |
+| 63f | [.swf](63f.html) | [.pdf](63f.pdf) | [.mp3](63f.mp3) | Mozart (?), Duo for Two Horns, K. 487 (all) |
+| 63e | [.swf](63e.html) | [.pdf](63e.pdf) | [.mp3](63e.mp3) | Paganini, Caprice in E Major, op. 1 no. 9, mm. 95-111 |
 | 63k1 | [.swf](63k1.html) | [.pdf](63k1.pdf) | [.mp3](63k1.mp3) | Berlioz, Hélène, H. 40A (op. 2 no. 2), mm. 81-97 |
 | 63l1 | [.swf](63l1.html) | [.pdf](63l1.pdf) | [.mp3](63l1.mp3) | Paganini, Caprice in E-flat Major, op. 1 no. 14, mm. 39-45 |
 | 63m1 | [.swf](63m1.html) | [.pdf](63m1.pdf) | [.mp3](63m1.mp3) | Wieniawski, Etude-Caprice, op. 18 no. 2, mm. 68-73 |
@@ -63,13 +63,13 @@ date:   2024-11-15 15:02:18 -0500
 | 63c2 | [.swf](63c2.html) | [.pdf](63c2.pdf) | [.mp3](63c2.mp3) | Beethoven, Piano Sonata in A-flat Major, op. 110, mvt. 2, mm. 144-158 |
 | 63e2 | [.swf](63e2.html) | [.pdf](63e2.pdf) | [.mp3](63e2.mp3) | Locatelli, L'Arte del Violino, op. 3 no. 8, mvt. 1, mm. 72-80 |
 | 63f2 | [.swf](63f2.html) | [.pdf](63f2.pdf) | [.mp3](63f2.mp3) | Paganini, Caprice in E Major, op. 1 no. 1, mm. 17-20 |
-| 63h | [.swf](63h.html) | [.pdf](63h.pdf) | [.mp4](63h.mp4) | Schubert, Piano Sonata in a minor, D. 845, mvt. 3, mm. 1-5 |
-| 63j | [.swf](63j.html) | [.pdf](63j.pdf) | [.mp4](63j.mp4) | Schubert, Piano Sonata in A Major, D. 959, mvt. 2, mm. 1-18 |
+| 63h | [.swf](63h.html) | [.pdf](63h.pdf) | [.mp3](63h.mp3) | Schubert, Piano Sonata in a minor, D. 845, mvt. 3, mm. 1-5 |
+| 63j | [.swf](63j.html) | [.pdf](63j.pdf) | [.mp3](63j.mp3) | Schubert, Piano Sonata in A Major, D. 959, mvt. 2, mm. 1-18 |
 | 63g2 | [.swf](63g2.html) | [.pdf](63g2.pdf) | [.mp3](63g2.mp3) | Haydn, Variations in f minor, Hob. XVII: 6, mm. 1-7 |
 | 63h2 | [.swf](63h2.html) | [.pdf](63h2.pdf) | [.mp3](63h2.mp3) | Schumann, Kinderszenen, op. 15 no. 12, mm. 1-8 |
 | 63i2 | [.swf](63i2.html) | [.pdf](63i2.pdf) | [.mp3](63i2.mp3) | Paganini, Violin Concerto no. 5 in a minor, mvt. 3, mm. 1-8 |
 | 63k2 | [.swf](63k2.html) | [.pdf](63k2.pdf) | [.mp3](63k2.mp3) | Cherubini, Anacréon, Overture, mm. 1-3 |
-| 63i | [.swf](63i.html) | [.pdf](63i.pdf) | [.mp4](p4ov) | Beethoven, Symphony no. 7 in A Major, op. 92, mvt. 2, mm. 1-18 |
+| 63i | [.swf](63i.html) | [.pdf](63i.pdf) | [.mp3](p4ov) | Beethoven, Symphony no. 7 in A Major, op. 92, mvt. 2, mm. 1-18 |
 | 63l2 | [.swf](63l2.html) | [.pdf](63l2.pdf) | [.mp3](63l2.mp3) | Beethoven, Symphony no. 7 in A Major, op. 92, mvt. 2, mm. 27-30 |
 | 63m2 | [.swf](63m2.html) | [.pdf](63m2.pdf) | [.mp3](63m2.mp3) | Beethoven, Symphony no. 7 in A Major, op. 92, mvt. 2, mm. 51-54 |
 | 63n2 | [.swf](63n2.html) | [.pdf](63n2.pdf) | [.mp3](63n2.mp3) | Dvorak, Minuet, op. 28 no. 2, mm. 101-105 |
@@ -91,20 +91,20 @@ date:   2024-11-15 15:02:18 -0500
 | 63z2 | [.swf](63z2.html) | [.pdf](63z2.pdf) | [.mp3](63z2.mp3) | Brahms, Clarinet Sonata no. 2 in E-flat Major, op. 120 no. 2, mvt. 1, mm. 1-3 |
 | 63a3 | [.swf](63a3.html) | [.pdf](63a3.pdf) | [.mp3](63a3.mp3) | Schumann, Album for the Young, op. 68 no. 4 (Ein Choral"), mm. 9-12 |
 | 63b3 | [.swf](63b3.html) | [.pdf](63b3.pdf) | [.mp3](63b3.mp3) | D. Scarlatti, Keyboard Sonata in D Major, Longo 12, mm. 1-4 |
-| 63p | [.swf](63p.html) | [.pdf](63p.pdf) | [.mp4](63p.mp4) | Corelli, Concerto Grosso in g minor, op. 6 no. 8, mvt. 1, mm. 1-6 |
+| 63p | [.swf](63p.html) | [.pdf](63p.pdf) | [.mp3](63p.mp3) | Corelli, Concerto Grosso in g minor, op. 6 no. 8, mvt. 1, mm. 1-6 |
 | 63c3 | [.swf](63c3.html) | [.pdf](63c3.pdf) | [.mp3](63c3.mp3) | Handel, Harpsichord Suite in d minor, HWV 428, mvt. 5, mm. 1-2 |
 | 63d3 | [.swf](63d3.html) | [.pdf](63d3.pdf) | [.mp3](63d3.mp3) | Rameau, Pièces de Clavecin, "Les Cyclopes", mm. 1-4 |
 | 63e3 | [.swf](63e3.html) | [.pdf](63e3.pdf) | [.mp3](63e3.mp3) | Beethoven, Piano Sonata in A-flat Major, op. 110, mvt. 2, mm. 1-8 |
-| 63r | [.swf](63r.html) | [.pdf](63r.pdf) | [.mp4](63r.mp4) | Schumann, Album for the Young, op. 68 no. 2 ("Soldier's March"), mm. 1-5 |
+| 63r | [.swf](63r.html) | [.pdf](63r.pdf) | [.mp3](63r.mp3) | Schumann, Album for the Young, op. 68 no. 2 ("Soldier's March"), mm. 1-5 |
 | 63f3 | [.swf](63f3.html) | [.pdf](63f3.pdf) | [.mp3](63f3.mp3) | Mozart, Piano Sonata in C Major, K. 545, mvt.1, mm. 5-8 |
 | 63g3 | [.swf](63g3.html) | [.pdf](63g3.pdf) | [.mp3](63g3.mp3) | J.S. Bach, Keyboard Partita no. 4 in D Major, BWV 828, mvt. 4, mm. 1-4 |
 | 63h3 | [.swf](63h3.html) | [.pdf](63h3.pdf) | [.mp3](63h3.mp3) | J.S. Bach, St. Matthew Passion, BWV 244, no. 30 ("And he came to his disciples"), mm. 1-4 |
 | 63i3 | [.swf](63i3.html) | [.pdf](63i3.pdf) | [.mp3](63i3.mp3) | J.S. Bach, Chorale no. 178 ("Das neugeborne Kindelein"), mm. 1-4 |
 | 63o | [.swf](63o.html) | [.pdf](63o.pdf) | [.mov](63o.mov) | Beethoven, Piano Sonata in g minor, op. 49 no. 1, mvt. 1, mm. 1-4 |
 | 63k3 | [.swf](63k3.html) | [.pdf](63k3.pdf) | [.mp3](63k3.mp3) | Beethoven, "Der Bardengeist", WoO 142, mm. 1-5 |
-| 63s | [.swf](63s.html) | [.pdf](63s.pdf) | [.mp4](63s.mp4) | Handel, Messiah, HWV 56, no. 2, mm. 1-4 |
+| 63s | [.swf](63s.html) | [.pdf](63s.pdf) | [.mp3](63s.mp3) | Handel, Messiah, HWV 56, no. 2, mm. 1-4 |
 | 63l3 | [.swf](63l3.html) | [.pdf](63l3.pdf) | [.mp3](63l3.mp3) | Haydn, Piano Sonata in D Major, Hob. XVI: 37, mvt. 3, mm. 1-4 |
-| 63m | [.swf](63m.html) | [.pdf](63m.pdf) | [.mp4](63m.mp4) | Schumann, Album for the Young, op. 68 no. 11 ("Sicilienne"), mm. 1-8 |
+| 63m | [.swf](63m.html) | [.pdf](63m.pdf) | [.mp3](63m.mp3) | Schumann, Album for the Young, op. 68 no. 11 ("Sicilienne"), mm. 1-8 |
 
 #### "viio"(often with scale degree 5 nearby or within sequences)
 
@@ -129,10 +129,10 @@ date:   2024-11-15 15:02:18 -0500
 | --- | --- | --- | --- | --- |
 | 63z3 | [.swf](63z3.html) | [.pdf](63z3.pdf) | [.mp3](63z3.mp3) | Beethoven, Piano Concerto no. 4 in G Major, op. 58, mvt. 1, mm. 1-5 |
 | 63a4 | [.swf](63a4.html) | [.pdf](63a4.pdf) | [.mp3](63a4.mp3) | J.S.Bach, Chorale no. 54 ("Lobt Gott, ihr Christen, allzugleich"), mm. 1-2 |
-| 63k | [.swf](63k.html) | [.pdf](63k.pdf) | [.mp4](63k.mp4) | J.S. Bach, French Suite no. 3 in b minor, BWV 814, Menuet, mm. 1-16 |
+| 63k | [.swf](63k.html) | [.pdf](63k.pdf) | [.mp3](63k.mp3) | J.S. Bach, French Suite no. 3 in b minor, BWV 814, Menuet, mm. 1-16 |
 | 63b4 | [.swf](63b4.html) | [.pdf](63b4.pdf) | [.mp3](63b4.mp3) | J.S. Bach, Prelude in d minor, BWV 554, mm. 1-3 |
 | 63d4 | [.swf](63d4.html) | [.pdf](63d4.pdf) | [.mp3](63d4.mp3) | J.S. Bach, Chorale no. 171 ("Schaut, ihr Sünder"), mm. 1-3 |
 | 63u |     | [.pdf](63u.pdf) |     | J.S. Bach, Chorale melody with figured bass no. 53 ("Jesu, Jesu du bist mein"), mm. 1-2 (score only) |
-| 63t | [.swf](63t.html) | [.pdf](63t.pdf) | [.mp4](p4ov) | J.S. Bach, Chorale no. 178 ("Das neugeborne Kindelein"), mm. 1-4 |
+| 63t | [.swf](63t.html) | [.pdf](63t.pdf) | [.mp3](p4ov) | J.S. Bach, Chorale no. 178 ("Das neugeborne Kindelein"), mm. 1-4 |
 | 63f4 | [.swf](63f4.html) | [.pdf](63f4.pdf) | [.mp3](63f4.mp3) | J.S. Bach, Chorale no. 267 ("Vater unser im Himmelreich"), mm. 1-2 |
 | 63g4 | [.swf](63g4.html) | [.pdf](63g4.pdf) | [.mp3](63g4.mp3) | Haydn, Piano Sonata in C Major, Hob. XVI: 35, mvt. 1, mm. 126-131 |
