@@ -1,4 +1,8 @@
-<h3>Chapter 12: Sequences</h3>
+---
+layout: examples-list
+title: "Sequences"
+date: 2024-11-15 15:02:18 -0500
+---
 
 <h4>Descending fifths, 6/3 variant, etc.</h4>
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
@@ -155,6 +159,7 @@
       <td>Vivaldi, Violin Concerto in a minor, op. 3 no. 6, mvt. 2, mm. 1-6
         (sequence avoided) </td>
     </tr>
+
   </tbody>
 </table>
 
@@ -199,6 +204,7 @@
       <td>Rachmaninoff, Rhapsody on a Theme of Paganini, op. 43, Variation 18,
         mm. 5-12</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -282,6 +288,7 @@
       <td><a href="SEQl1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Poulenc, Gloria, Domine Deus, mm. 1-4</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -362,6 +369,7 @@
       <td>J.S. Bach, Brandenburg Concerto no. 4 in G Major, BWV 1049, mvt. 1,
         mm. 47-53</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -403,6 +411,7 @@
       <td>Beethoven, Violin Sonata no. 1 in D Major, op. 12 no. 1, mvt. 3, mm.
         157-165 </td>
     </tr>
+
   </tbody>
 </table>
 <!-- InstanceEndEditable --></div>

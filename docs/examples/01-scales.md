@@ -4,15 +4,18 @@ title: "Scales"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-- [Ascending Major Scales](#ascending-major-scales)
-- [Descending Major Scales](#descending-major-scales)
+- [Major scales](#major-scales)
+  - [Ascending Major Scales](#ascending-major-scales)
+  - [Descending Major Scales](#descending-major-scales)
 - [Minor Scales](#minor-scales)
 - [Simultaneous Scales](#simultaneous-scales)
 - [Other scales, modes, and pitch collections](#other-scales-modes-and-pitch-collections)
 
 Some examples contain multiple types of scales.
 
-## Ascending Major Scales
+## Major scales
+
+### Ascending Major Scales
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -166,7 +169,7 @@ Some examples contain multiple types of scales.
   </tbody>
 </table>
 
-## Descending Major Scales
+### Descending Major Scales
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>

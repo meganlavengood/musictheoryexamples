@@ -1,3 +1,9 @@
+---
+layout: examples-list
+title: "viio7 and viiø7"
+date: 2024-11-15 15:02:18 -0500
+---
+
 <p class="smalltextitalics">(Some examples contain multiple types of VII<sup>7</sup>
   chords. Not all examples may be deserving of true harmonic status.)</p>
 
@@ -101,6 +107,7 @@
       <td><a href="VIIm.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Chopin, Mazurka in A-flat Major, op. 17 no. 3, mm. 1-17</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -165,6 +172,7 @@
       <td><a href="VIIt.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Mozart, Piano Sonata in c minor, K. 457, mvt. 1, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -206,6 +214,7 @@
       <td><a href="VIIy.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Mozart, Piano Sonata in a minor, K. 310, mvt. 1, mm. 123-129</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -243,6 +252,7 @@
       <td>Schubert, Die Winterreise, D. 911 no. 20, &quot;Der Wegweiser&quot;,
         mm. 1-5</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -307,6 +317,7 @@
       <td><a href="VIIk1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Schubert, Moment Musicale in A-flat Major, op. 94 no. 6, mm. 42-57</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -327,6 +338,7 @@
       <td><a href="VIIl1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Bruckner, Tantum Ergo no.4 in A-flat Major, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -390,6 +402,7 @@
       <td><a href="VIIt1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Bruch, Violin Concerto no. 1 in g minor, op. 26, mvt. 2, mm. 9-15</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -438,6 +451,7 @@
       <td><a href="VIIa2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Brahms, Symphony no. 4 in e minor, op. 98, mvt. 4, mm. 33-40</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -523,5 +537,6 @@
       <td><a href="VIIm2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, String Quartet in e minor, op. 59 no. 2, mvt. 1, mm. 9-15</td>
     </tr>
+
   </tbody>
 </table>

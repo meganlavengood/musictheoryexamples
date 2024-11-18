@@ -1,4 +1,8 @@
-<h3>Chapter 10: Moving Toward V (major only) </h3>
+---
+layout: examples-list
+title: "Moving Toward V"
+date: 2024-11-15 15:02:18 -0500
+---
 
 <h4><em>Also see Chapter 21 and 22</em></h4>
 
@@ -60,6 +64,7 @@
       <td><a href="10MTV/MTVa.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>J.S. Bach, Chorale no. 102, &quot;Ermuntre dich, mein schwacher Geist&quot;, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -128,6 +133,7 @@
       <td><a href="MTVq1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Haydn, String Quartet in F Major, op. 74 no. 2, mvt. 4, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -348,6 +354,7 @@
       <td><a href="MTVt2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Haydn, String Quartet in B-flat Major, op. 1 no. 1, mvt. 4, Trio, mm. 1-13</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -420,6 +427,7 @@
       <td><a href="MTVn.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Violin Sonata no. 5 in F Major, op. 24, mvt. 4, mm. 224-236</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -755,5 +763,6 @@
         <p>Mozart, Divertimento in D Major, K. 136, mvt. 2, mm. 5-17</p>
       </td>
     </tr>
+
   </tbody>
 </table>

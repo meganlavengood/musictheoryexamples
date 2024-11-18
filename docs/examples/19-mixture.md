@@ -1,3 +1,9 @@
+---
+layout: examples-list
+title: "Mixture"
+date: 2024-11-15 15:02:18 -0500
+---
+
 <h4>Pitches</h4>
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -36,6 +42,7 @@
       <td><a href="mixf.mov">.mov</a></td>
       <td>Chopin, Mazurka in f minor, op. 63 no. 2, mm. 49-56</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -176,6 +183,7 @@
       <td><a href="mixz.mov">.mov</a></td>
       <td>Mahler, Symphony no. 2 in c minor, mvt. 1, mm. 433-445</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -261,6 +269,7 @@
       <td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 4 (entire) <strong>no
           score, no sound</strong></td>
     </tr>
+
   </tbody>
 </table>
 
@@ -295,6 +304,7 @@
       <td><a href="mixm1.mov">.mov</a> </td>
       <td>Schubert, Mass no. 6 in E-flat Major, D. 950, mvt. 1, mm. 158-164</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -323,6 +333,7 @@
       <td><a href=mixture/mixp1.mov>.mov</a></td>
       <td>Rachmaninoff, Prelude in F Major, op. 32 no. 7, mm. 41-45</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -357,6 +368,7 @@
       <td><a href="mixs1.mov">.mov</a> </td>
       <td>Walton, Viola Concerto, mvt. 3, mm. 297-301</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -396,6 +408,7 @@
     <tr>
       <td valign="top">&nbsp;</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -425,6 +438,7 @@
         </ol>
       </td>
     </tr>
+
   </tbody>
 </table>
 <!-- InstanceEndEditable --></div>

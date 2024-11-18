@@ -1,3 +1,9 @@
+---
+layout: examples-list
+title: "I, V, V7"
+date: 2024-11-15 15:02:18 -0500
+---
+
 <h3>Chapter 3: I, V, V<sup>7</sup></h3>
 
 <h4>Root-position tonic </h4>
@@ -52,6 +58,7 @@
       <td><a href="TDd.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Mahler, Symphony no. 1 in D Major, mvt. 4, last 20 measures (sound only)</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -214,7 +221,7 @@
       <td><a href="a></td>
         <td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 1, mm. 483-502</td>
        </tr>
-       <tr> 
+       <tr>
         <td>TDl</td>
         <td>&nbsp;</td>
         <td>&nbsp;</td>
@@ -228,6 +235,7 @@
       <td><a href="TDm.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Symphony no. 5 in c minor, op. 67. mvt. 4, mm. 404-444 (sound only) </td>
     </tr>
+
   </tbody>
 </table>
 
@@ -292,7 +300,7 @@
        </tr>
        <tr>
          <td>TDt2</td>
-         
+
       <td><a href=" TDt2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="TDt2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Eroica Variations, op. 35, Theme, mm. 1-4</td>
@@ -544,7 +552,7 @@
        </tr>
        <tr>
          <td>TDu3</td>
-         
+
       <td><a href=" TDu3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="TDu3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Brahms, String Quartet no. 2 in a minor, op. 51 no. 2, mvt. 4, mm. 354-359</td>
@@ -643,6 +651,7 @@
       <td><a href="TDb4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Schumann, &quot;L&auml;ndliches Lied&quot;, op. 29 no. 1, mm. 1-4</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -691,6 +700,7 @@
       <td><a href="TDg4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Chopin, Prelude in e minor, op. 28 no. 4, mm. 9-13</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -753,6 +763,7 @@
       <td><a href="TDn4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Mozart, A Musical Joke, K. 522, mvt. 1, mm. 11-15</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -796,6 +807,7 @@
       <td><a href="TDs4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Symphony no. 2 in D Major, op. 36, mvt. 1, mm. 350-360</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -838,12 +850,12 @@
 
       <td><a href="TDl1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="a></td>
-         <td>Wieniawski, Violin Concerto no. 1 in f-sharp minor, op. 14, mvt. 1, 
+         <td>Wieniawski, Violin Concerto no. 1 in f-sharp minor, op. 14, mvt. 1,
            mm. 153-161 </td>
        </tr>
        <tr>
          <td>TDx4</td>
-         
+
       <td><a href=" TDx4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="TDx4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Paganini, Violin Concerto no. 3 in E Major, mvt. 1, mm. 344-352</td>
@@ -853,12 +865,12 @@
 
       <td><a href="TDj1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="a></td>
-         <td>Chopin, Piano Concerto no. 1 in e minor, op. 11, mvt. 
+         <td>Chopin, Piano Concerto no. 1 in e minor, op. 11, mvt.
            3, mm. 455-471 </td>
        </tr>
        <tr>
          <td>TDy4</td>
-         
+
       <td><a href=" TDy4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="TDy4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Paganini, Violin Concerto no. 1 in D Major, op. 6, mvt. 1, mm. 260-268</td>
@@ -891,5 +903,6 @@
       <td><a href="TDb5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Bazzini, Dance of the Goblins, op. 25, mm. 411-430</td>
     </tr>
+
   </tbody>
 </table>

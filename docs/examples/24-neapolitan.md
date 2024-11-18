@@ -1,3 +1,9 @@
+---
+layout: examples-list
+title: "Neapolitan Chords (♭II)"
+date: 2024-11-15 15:02:18 -0500
+---
+
 <h4>Flat Scale Degree 2 </h4>
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -57,6 +63,7 @@
       <td><a href="N6g.mov">.mov</a></td>
       <td>Chopin, Etude, op. 25 no. 4, mm. 54-end</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -106,6 +113,7 @@
       <td>Liszt, Transcendental Etude no. 2, mm. 92-end (not counting
         pickup measure)</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -147,6 +155,7 @@
       <td><a href="N6s.mov">.mov</a></td>
       <td>Tchaikovsky, Piano Trio, mvt. 1, mm. 14-20</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -188,6 +197,7 @@
       <td><a href="neapolitan/N6x.mov">.mov</a></td>
       <td>Beethoven, String Trio, op. 1 no. 1, mm. 321-364 (sound only)</td>
     </tr>
+
   </tbody>
 </table>
 <!-- InstanceEndEditable --></div>

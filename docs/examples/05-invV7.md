@@ -1,3 +1,9 @@
+---
+layout: examples-list
+title: "Inversions of V7"
+date: 2024-11-15 15:02:18 -0500
+---
+
 <h4>Mostly I-V<sup>6/5</sup>-I (major mode)</h4>
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -129,7 +135,7 @@
        </tr>
        <tr>
          <td>V7Iv1</td>
-         
+
       <td><a href=" V7Iv1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="V7Iv1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Violin Sonata no. 2 in A Major, op. 12 no. 2, mvt. 1, mm. 1-26</td>
@@ -155,6 +161,7 @@
       <td><a href="V7Iy1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Mozart, Concerto for Flute and Harp in C Major, K. 299, mvt. 2, mm. 66-73</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -252,6 +259,7 @@
       <td><a href="V7Ig2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>J.S. Bach, Mass in b minor, BWV 232, Qui sedes, mm. 1-3</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -314,6 +322,7 @@
       <td><a href="V7Io2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Chopin, Etude in c minor, op. 10 no. 12, mm. 1-10</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -425,6 +434,7 @@
       <td><a href="V7Ic3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, &quot;Wonne der Wehmuth&quot;, op. 83 no. 1, mm. 1-6</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -480,6 +490,7 @@
       <td><a href="V7Ij3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Piano Sonata in c-sharp minor, op. 27 no. 2, mvt. 3, mm. 116-120</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -521,6 +532,7 @@
       <td><a href="V7Io3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Bruch, Scottish Fantasy, op. 46, mvt. 1, mm. 1-4</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -562,6 +574,7 @@
       <td><a href="V7Io.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Mendelssohn, Song without Words in E Major, op. 19 no. 1, mm. 1-7</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -645,6 +658,7 @@
       <td><a href="V7Il.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Haydn, String Quartet in B-flat major, op. 76 no. 4, mvt. 2, mm. 1-4</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -686,6 +700,7 @@
       <td><a href="V7Ie4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, String Trio in E-flat major, op. 3, mvt. 4, mm. 1-5</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -706,6 +721,7 @@
       <td><a href="V7If4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Schumann, Myrthen, op. 25 no. 12 (&quot;Lass mich ihm am Busen hangen&quot;), mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -733,6 +749,7 @@
       <td><a href="V7Ih4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Bruch, Scottish Fantasy, op. 46, mvt. 1, mm. 33-36</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -767,6 +784,7 @@
       <td><a href="V7Il4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Nine Variations on an Aria in Paisiello, WoO 69, Theme, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -801,6 +819,7 @@
       <td><a href="V7Ip4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Berlioz, &quot;La Mort d'Oph&eacute;lie&quot;, H. 92B, mm. 1-10</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -828,6 +847,7 @@
       <td><a href="V7Ir4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Myslivecek (arr. Mozart), &quot;Ridente la calma&quot;, K. 152, mm. 21-27</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -862,6 +882,7 @@
       <td><a href="V7It4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Schubert, 36 Originalt&auml;nze, D. 365 no. 10, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -917,6 +938,7 @@
       <td><a href="V7Iz4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Schumann, Album for the Young, op. 68 no. 6 (Armes Waisenkind&quot;), mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -1049,6 +1071,7 @@
       <td><a href="V7Im5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Chopin, Nocturne in c minor, op. 48 no. 1, mm. 11-12</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -1104,6 +1127,7 @@
       <td><a href="V7Ib1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Piano Sonata in c minor, op. 13, mvt. 2, mm. 1-16</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -1159,6 +1183,7 @@
       <td><a href="V7Iw5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Piano Sonata in c minor, op. 111, mvt. 2, mm. 1-5</td>
     </tr>
+
   </tbody>
 </table>
 
@@ -1193,5 +1218,6 @@
       <td><a href="V7Ia1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, String Quartet in B-flat Major, op. 18 no. 6, mvt. 2, mm. 1-8</td>
     </tr>
+
   </tbody>
 </table>
