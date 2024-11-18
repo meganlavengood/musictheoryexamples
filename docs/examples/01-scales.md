@@ -4,12 +4,12 @@ title: "Scales"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-- [Major scales](#major-scales)
-  - [Ascending Major Scales](#ascending-major-scales)
-  - [Descending Major Scales](#descending-major-scales)
-- [Minor Scales](#minor-scales)
-- [Simultaneous Scales](#simultaneous-scales)
-- [Other scales, modes, and pitch collections](#other-scales-modes-and-pitch-collections)
+-   [Major scales](#major-scales)
+    -   [Ascending Major Scales](#ascending-major-scales)
+    -   [Descending Major Scales](#descending-major-scales)
+-   [Minor Scales](#minor-scales)
+-   [Simultaneous Scales](#simultaneous-scales)
+-   [Other scales, modes, and pitch collections](#other-scales-modes-and-pitch-collections)
 
 Some examples contain multiple types of scales.
 
@@ -714,7 +714,7 @@ Some examples contain multiple types of scales.
     </tr>
     <tr>
       <td><a href="01-scales/ScA1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>&nbsp;</td>
+      <td></td>
       <td>&quot;Hora Lui Timosca,&quot; Orchestra Grigora Dinicu, &quot;Bartok&quot; or &quot;Acoustic&quot; scale in the key of F (sound only)</td>
     </tr>
   </tbody>

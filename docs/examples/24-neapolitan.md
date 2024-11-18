@@ -153,7 +153,7 @@ date: 2024-11-15 15:02:18 -0500
       <td>Beethoven, Andante Favori, mm. 189-198</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td></td>
       <td><a href="24-neapolitan/N6x.mov">.mov</a></td>
       <td>Beethoven, String Trio, op. 1 no. 1, mm. 321-364 (sound only)</td>
     </tr>

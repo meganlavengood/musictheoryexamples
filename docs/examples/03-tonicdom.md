@@ -42,7 +42,7 @@ date: 2024-11-15 15:02:18 -0500
             <td>Cherubini, Medea, Overture, last 15 measures</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
+            <td></td>
             <td><a href="03-tonicdom/TDd.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
             <td>Mahler, Symphony no. 1 in D Major, mvt. 4, last 20 measures (sound only)</td>
         </tr>
@@ -167,12 +167,12 @@ date: 2024-11-15 15:02:18 -0500
             <td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 1, mm. 483-502</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
+            <td></td>
             <td><a href="03-tonicdom/ TDl.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
             <td>Beethoven, Symphony no. 1 in C Major, op. 21, mvt. 4, mm. 289-304 (sound only) </td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
+            <td></td>
             <td><a href="03-tonicdom/TDm.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
             <td>Beethoven, Symphony no. 5 in c minor, op. 67. mvt. 4, mm. 404-444 (sound only) </td>
         </tr>
@@ -416,7 +416,7 @@ date: 2024-11-15 15:02:18 -0500
             <td>Verdi, Rigoletto, Act I, &quot;Questa o quella,&quot; mm. 1-21</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
+            <td></td>
             <td><a href="03-tonicdom/ TDq.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
             <td>Tchaikovsky, Sleeping Beauty Suite, op. 66a, mvt. 2, mm. 1-19 (cadenza on V7) (sound only)</td>
         </tr>

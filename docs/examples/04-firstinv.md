@@ -4,14 +4,14 @@ title: "I6, V6, viio6"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-- [Beginning on I6](#beginning-on-i6)
-- [I6](#i6)
-- [Ending on "I6"](#ending-on-i6)
-- [Beginning on V6](#beginning-on-v6)
-- [V6](#v6)
-- [vii06](#vii06)
-- [False viio](#false-viio)
-- [Various combinations](#various-combinations)
+-   [Beginning on I6](#beginning-on-i6)
+-   [I6](#i6)
+-   [Ending on "I6"](#ending-on-i6)
+-   [Beginning on V6](#beginning-on-v6)
+-   [V6](#v6)
+-   [vii06](#vii06)
+-   [False viio](#false-viio)
+-   [Various combinations](#various-combinations)
 
 ## Beginning on I<sup>6</sup>
 
@@ -117,8 +117,6 @@ date: 2024-11-15 15:02:18 -0500
 
   </tbody>
 </table>
-
-<p>&nbsp;</p>
 
 ## Ending on &quot;I<sup>6</sup>&quot;
 
@@ -464,8 +462,6 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-<p>&nbsp;</p>
-
 ## False vii<sup>o</sup>
 
 Often with $\hat5$ nearby or within sequences.
@@ -581,7 +577,7 @@ Often with $\hat5$ nearby or within sequences.
     </tr>
     <tr>
       <td><a href="04-firstinv/63u.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>&nbsp;</td>
+      <td></td>
       <td>J.S. Bach, Chorale melody with figured bass no. 53 (&quot;Jesu, Jesu
         du bist mein&quot;), mm. 1-2 (score only)</td>
     </tr>

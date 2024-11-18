@@ -242,9 +242,9 @@ date: 2024-11-15 15:02:18 -0500
       <td>Glenn Gould, &ldquo;So You Want to Write a Fugue?&rdquo;, mm. 1-10</td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td></td>
       <td><a href="02-parallel-vl/PvlB.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>&nbsp;</td>
+      <td></td>
       <td>J.S. Bach, Chorale no. 64 &quot;Freu' dich sehr, O meine Seele,&quot; mm. 5-8 (wrong note?) (no recording)</td>
     </tr>
     <tr>
@@ -607,9 +607,9 @@ date: 2024-11-15 15:02:18 -0500
       </td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td></td>
       <td><a href="02-parallel-vl/PvlC4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>&nbsp;</td>
+      <td></td>
       <td>J. S. Bach, Chorale no. 191 (&ldquo;Von Gott will ich nicht lassen&rdquo;), mm. 1-4 (no recording)</td>
     </tr>
     <tr>
