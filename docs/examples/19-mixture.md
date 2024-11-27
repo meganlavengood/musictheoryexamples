@@ -185,15 +185,14 @@ date: 2024-11-15 15:02:18 -0500
       <td>Brahms, Piano Trio no. 2 in C Major, op. 87, mvt. 3, mm. 165-175</td>
     </tr>
     <tr>
-      <td></td>
       <td><a href="19-mixture/mixg1.mov">.mov</a></td>
+      <td></td>
       <td>Orff, Carmina Burana, mvt. 1 (end) <strong>sound only</strong></td>
     </tr>
     <tr>
-      <td></td>
       <td><a href="19-mixture/mixh1.mov">.mov</a></td>
-      <td>Beethoven, String Quartet in c minor, op. 16 no. 4, mvt. 4 (end) <strong>sound
-          only</strong></td>
+      <td></td>
+      <td>Beethoven, String Quartet in c minor, op. 16 no. 4, mvt. 4 (end) <strong>sound only</strong></td>
     </tr>
     <tr>
       <td></td>
