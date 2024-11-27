@@ -435,7 +435,7 @@ date: 2024-11-15 15:02:18 -0500
     </tr>
     <tr>
       <td><a href="04-firstinv/63o.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td><a href="04-firstinv/63o.mp3">.mp3</a></td>
+      <td><a href="04-firstinv/63o.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td>Beethoven, Piano Sonata in g minor, op. 49 no. 1, mvt. 1, mm. 1-4</td>
     </tr>
     <tr>
