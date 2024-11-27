@@ -43,8 +43,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQf.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQf.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Saint-Sa&euml;ns, Piano Concerto no. 2 in g minor, op. 22, mvt. 3,
-        mm. 293-303</td>
+      <td>Saint-Sa&euml;ns, Piano Concerto no. 2 in g minor, op. 22, mvt. 3, mm. 293-303</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQg.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -69,8 +68,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQk.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQk.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J.S. Bach, Sonata no. 1 in g minor for Solo Violin, BWV 1001, mvt.
-        4, mm. 7-16</td>
+      <td>J.S. Bach, Sonata no. 1 in g minor for Solo Violin, BWV 1001, mvt. 4, mm. 7-16</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQl.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -85,14 +83,12 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQn.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQn.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Brahms, Clarinet Sonata in E-flat Major, op. 120 no. 2, mvt. 1, mm.
-        161-166 </td>
+      <td>Brahms, Clarinet Sonata in E-flat Major, op. 120 no. 2, mvt. 1, mm. 161-166 </td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQo.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQo.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Brahms, Piano Concerto no. 2 in B-flat Major, op. 83, mvt. 1, mm.
-        146-153 </td>
+      <td>Brahms, Piano Concerto no. 2 in B-flat Major, op. 83, mvt. 1, mm. 146-153 </td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQp.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -143,8 +139,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQv.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQv.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Corelli, Concerto Grosso in C Major, op. 6 no. 10, mvt.
-        4, mm. 1-9</td>
+      <td>Corelli, Concerto Grosso in C Major, op. 6 no. 10, mvt. 4, mm. 1-9</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQw.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -154,8 +149,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQy.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQy.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Rachmaninoff, Rhapsody on a Theme of Paganini, op. 43, Variation 18,
-        mm. 5-12</td>
+      <td>Rachmaninoff, Rhapsody on a Theme of Paganini, op. 43, Variation 18, mm. 5-12</td>
     </tr>
 
   </tbody>
@@ -240,14 +234,12 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQm1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQm1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Chopin, Piano Concerto no. 1 in e minor, op. 11, mvt.
-        3, mm. 471-477</td>
+      <td>Chopin, Piano Concerto no. 1 in e minor, op. 11, mvt. 3, mm. 471-477</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQo1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQo1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Vivaldi, Violin Concerto in f minor, op. 8 no. 4 (&quot;Winter&quot;),
-        mvt. 2, mm. 11-13</td>
+      <td>Vivaldi, Violin Concerto in f minor, op. 8 no. 4 (&quot;Winter&quot;), mvt. 2, mm. 11-13</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQp1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -267,8 +259,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQs1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQs1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J.S. Bach, Keyboard Partita no. 4 in D Major, BWV 828, Allemande,
-        mm. 18-21</td>
+      <td>J.S. Bach, Keyboard Partita no. 4 in D Major, BWV 828, Allemande, mm. 18-21</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQu1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -283,8 +274,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQw1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQw1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J.S. Bach, Brandenburg Concerto no. 4 in G Major, BWV 1049, mvt. 1,
-        mm. 47-53</td>
+      <td>J.S. Bach, Brandenburg Concerto no. 4 in G Major, BWV 1049, mvt. 1, mm. 47-53</td>
     </tr>
 
   </tbody>
@@ -308,20 +298,17 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="12-seq/SEQx1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQx1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Beethoven, Piano Concerto no. 5 in E-flat Major, op. 73,
-        mvt. 2, mm. 20-25</td>
+      <td>Beethoven, Piano Concerto no. 5 in E-flat Major, op. 73, mvt. 2, mm. 20-25</td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQy1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQy1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Mozart, Piano Concerto no. 14 in E-flat Major, K. 449, mvt. 2, mm.
-        89-97 </td>
+      <td>Mozart, Piano Concerto no. 14 in E-flat Major, K. 449, mvt. 2, mm. 89-97 </td>
     </tr>
     <tr>
       <td><a href="12-seq/SEQz1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="12-seq/SEQz1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Beethoven, Violin Sonata no. 1 in D Major, op. 12 no. 1, mvt. 3, mm.
-        157-165 </td>
+      <td>Beethoven, Violin Sonata no. 1 in D Major, op. 12 no. 1, mvt. 3, mm. 157-165 </td>
     </tr>
 
   </tbody>

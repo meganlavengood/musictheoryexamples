@@ -87,8 +87,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="24-neapolitan/N6m.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="24-neapolitan/N6m.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Liszt, Transcendental Etude no. 2, mm. 92-end (not counting
-        pickup measure)</td>
+      <td>Liszt, Transcendental Etude no. 2, mm. 92-end (not counting pickup measure)</td>
     </tr>
 
   </tbody>

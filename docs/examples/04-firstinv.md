@@ -101,8 +101,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="04-firstinv/63b.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="04-firstinv/63b.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Beethoven, Piano Sonata in E Major, op. 109, mvt. 3, mm.
-        1-8</td>
+      <td>Beethoven, Piano Sonata in E Major, op. 109, mvt. 3, mm. 1-8</td>
     </tr>
     <tr>
       <td><a href="04-firstinv/63c.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
@@ -410,8 +409,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="04-firstinv/63r.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="04-firstinv/63r.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Schumann, Album for the Young, op. 68 no. 2 (&quot;Soldier's March&quot;),
-        mm. 1-5</td>
+      <td>Schumann, Album for the Young, op. 68 no. 2 (&quot;Soldier's March&quot;), mm. 1-5</td>
     </tr>
     <tr>
       <td><a href="04-firstinv/63f3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
@@ -456,8 +454,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="04-firstinv/63m.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="04-firstinv/63m.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Schumann, Album for the Young, op. 68 no. 11 (&quot;Sicilienne&quot;),
-        mm. 1-8</td>
+      <td>Schumann, Album for the Young, op. 68 no. 11 (&quot;Sicilienne&quot;), mm. 1-8</td>
     </tr>
   </tbody>
 </table>
@@ -562,8 +559,7 @@ Often with $\hat5$ nearby or within sequences.
     <tr>
       <td><a href="04-firstinv/63k.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="04-firstinv/63k.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>J.S. Bach, French Suite no. 3 in b minor, BWV 814, Menuet,
-        mm. 1-16</td>
+      <td>J.S. Bach, French Suite no. 3 in b minor, BWV 814, Menuet, mm. 1-16</td>
     </tr>
     <tr>
       <td><a href="04-firstinv/63b4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
@@ -578,14 +574,12 @@ Often with $\hat5$ nearby or within sequences.
     <tr>
       <td><a href="04-firstinv/63u.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td></td>
-      <td>J.S. Bach, Chorale melody with figured bass no. 53 (&quot;Jesu, Jesu
-        du bist mein&quot;), mm. 1-2 (score only)</td>
+      <td>J.S. Bach, Chorale melody with figured bass no. 53 (&quot;Jesu, Jesu du bist mein&quot;), mm. 1-2 (score only)</td>
     </tr>
     <tr>
       <td><a href="04-firstinv/p4ov">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="04-firstinv/63t.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>J.S. Bach, Chorale no. 178 (&quot;Das neugeborne Kindelein&quot;),
-        mm. 1-4 </td>
+      <td>J.S. Bach, Chorale no. 178 (&quot;Das neugeborne Kindelein&quot;), mm. 1-4 </td>
     </tr>
     <tr>
       <td><a href="04-firstinv/63f4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>

@@ -53,8 +53,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="19-mixture/mixh.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="19-mixture/mixh.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Schubert, Sonata for Piano and Violin in A Major, op.
-        162, mvt. 3, mm. 87-92</td>
+      <td>Schubert, Sonata for Piano and Violin in A Major, op. 162, mvt. 3, mm. 87-92</td>
     </tr>
     <tr>
       <td><a href="19-mixture/mixi.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
@@ -159,14 +158,12 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="19-mixture/mixa1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="19-mixture/mixa1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Bach, Concerto for Two Violins in d minor, BWV 1043, mvt.
-        1, mm. 85-88</td>
+      <td>Bach, Concerto for Two Violins in d minor, BWV 1043, mvt. 1, mm. 85-88</td>
     </tr>
     <tr>
       <td><a href="19-mixture/mixb1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="19-mixture/mixb1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Chopin Nocturne in c-sharp minor (1830), mm. 57-65<br>
-        (discrepancies between score and sound)</td>
+      <td>Chopin Nocturne in c-sharp minor (1830), mm. 57-65<br> (discrepancies between score and sound)</td>
     </tr>
     <tr>
       <td><a href="19-mixture/mixc1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
@@ -176,8 +173,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="19-mixture/mixd1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="19-mixture/mixd1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Dvorak, Symphony no. 7 in d minor, op. 70, mm. 425-434<br>
-        (listen to wrong note in m. 430!)</td>
+      <td>Dvorak, Symphony no. 7 in d minor, op. 70, mm. 425-434<br> (listen to wrong note in m. 430!)</td>
     </tr>
     <tr>
       <td><a href="19-mixture/mixe1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
@@ -197,15 +193,13 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td></td>
       <td></td>
-      <td>Saint-Sa&euml;ns, Cello Concerto no. 1 in a minor, op. 33, mvt.
-          3 (end) <strong>no score, no sound</strong>
+      <td>Saint-Sa&euml;ns, Cello Concerto no. 1 in a minor, op. 33, mvt. 3 (end) <strong>no score, no sound</strong>
       </td>
     </tr>
     <tr>
       <td></td>
       <td></td>
-      <td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 4 (entire) <strong>no
-          score, no sound</strong></td>
+      <td>Beethoven, Symphony no. 5 in c minor, op. 67, mvt. 4 (entire) <strong>no score, no sound</strong></td>
     </tr>
 
   </tbody>
@@ -255,8 +249,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="19-mixture/mixo1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="19-mixture/mixo1.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>Beethoven, Piano Trio in E-flat major, op. 70 no. 2, mvt.
-        3, mm. 87-109</td>
+      <td>Beethoven, Piano Trio in E-flat major, op. 70 no. 2, mvt. 3, mm. 87-109</td>
     </tr>
     <tr>
       <td><a href="mixture/mixp1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>

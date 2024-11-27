@@ -21,26 +21,22 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIa.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIa.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Mozart, Violin Sonata in G Major, K. 379, mvt. 2, mm.
-        1-18 </td>
+      <td>Mozart, Violin Sonata in G Major, K. 379, mvt. 2, mm. 1-18 </td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIb.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIb.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Corelli, Concerto Grosso in B-flat Major, op. 6 no. 11,
-        mvt. 3, mm. 1-9</td>
+      <td>Corelli, Concerto Grosso in B-flat Major, op. 6 no. 11, mvt. 3, mm. 1-9</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIc.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIc.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Rameau, Pi&egrave;ces de Clavecin (1724), &quot;Le Rappel des Oiseaux&quot;,
-        mm. 1-12</td>
+      <td>Rameau, Pi&egrave;ces de Clavecin (1724), &quot;Le Rappel des Oiseaux&quot;, mm. 1-12</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIId.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIId.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Brahms, Piano Concerto no. 2 in B-flat Major, op. 83, mvt. 1, mm.
-        159-163</td>
+      <td>Brahms, Piano Concerto no. 2 in B-flat Major, op. 83, mvt. 1, mm. 159-163</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIe.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -60,8 +56,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIi.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIi.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J. S. Bach, Keyboard Partita no. 6 in e minor, BWV 830, Toccata, mm.
-        1-2 </td>
+      <td>J. S. Bach, Keyboard Partita no. 6 in e minor, BWV 830, Toccata, mm. 1-2 </td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIj.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -71,8 +66,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIk.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIk.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J. S. Bach, Suite no. 2 in d minor for Solo Cello, BWV 1008 Pr&eacute;lude,
-        mm. 1-4</td>
+      <td>J. S. Bach, Suite no. 2 in d minor for Solo Cello, BWV 1008 Pr&eacute;lude, mm. 1-4</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIl.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -102,14 +96,12 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIn.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIn.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Haydn, Piano Sonata in E-flat Major, Hob. XVI:38, mvt.
-        2, mm. 1-2</td>
+      <td>Haydn, Piano Sonata in E-flat Major, Hob. XVI:38, mvt. 2, mm. 1-2</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIo.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIo.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Haydn, Piano Sonata in D Major, Hob. XVI:33, mvt. 2, mm.
-        1-6 </td>
+      <td>Haydn, Piano Sonata in D Major, Hob. XVI:33, mvt. 2, mm. 1-6 </td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIp.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -189,20 +181,17 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIa1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIa1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Vieuxtemps, Violin Concerto no. 5 in a minor, op. 37,
-        mm. 257-265</td>
+      <td>Vieuxtemps, Violin Concerto no. 5 in a minor, op. 37, mm. 257-265</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIb1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIb1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J. S. Bach, Partita no. 2 in d minor for Solo Violin, BWV 1004, Allemande,
-        mm. 17-24</td>
+      <td>J. S. Bach, Partita no. 2 in d minor for Solo Violin, BWV 1004, Allemande, mm. 17-24</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIc1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIc1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Schubert, Die Winterreise, D. 911 no. 20, &quot;Der Wegweiser&quot;,
-        mm. 1-5</td>
+      <td>Schubert, Die Winterreise, D. 911 no. 20, &quot;Der Wegweiser&quot;, mm. 1-5</td>
     </tr>
 
   </tbody>
@@ -222,14 +211,12 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIId1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIId1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Beethoven, String Trio in E-flat Major, op. 3 no. 1, Finale,
-        mm. 1-24</td>
+      <td>Beethoven, String Trio in E-flat Major, op. 3 no. 1, Finale, mm. 1-24</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIf1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIf1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Dvorak, String Quartet no. 10 in E-flat Major, op. 51, mvt. 3, mm.
-        1-5 </td>
+      <td>Dvorak, String Quartet no. 10 in E-flat Major, op. 51, mvt. 3, mm. 1-5 </td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIg1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -299,8 +286,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIn1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIn1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>Mozart, Violin Sonata in D Major, K. 306, mvt. 2, mm.
-        1-7 </td>
+      <td>Mozart, Violin Sonata in D Major, K. 306, mvt. 2, mm. 1-7 </td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIo1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
@@ -400,14 +386,12 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td><a href="20-viio7/VIIg2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIg2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J. S. Bach, Partita no. 2 in d minor for Solo Violin, BWV 1004, Sarabande,
-        mm. 1-8</td>
+      <td>J. S. Bach, Partita no. 2 in d minor for Solo Violin, BWV 1004, Sarabande, mm. 1-8</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIh2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td><a href="20-viio7/VIIh2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>J. S. Bach, Partita no. 2 in d minor for Solo Violin, BWV 1004, Allemande,
-        mm. 1-4</td>
+      <td>J. S. Bach, Partita no. 2 in d minor for Solo Violin, BWV 1004, Allemande, mm. 1-4</td>
     </tr>
     <tr>
       <td><a href="20-viio7/VIIi2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
