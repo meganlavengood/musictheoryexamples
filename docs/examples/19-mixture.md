@@ -4,6 +4,17 @@ title: "Mixture"
 date: 2024-11-15 15:02:18 -0500
 ---
 
+Jump to:
+
+-   [Pitches](#pitches)
+-   [Harmonies](#harmonies)
+-   [Picardy Third](#picardy-third)
+-   [Plagal cadences/progressions](#plagal-cadencesprogressions)
+-   [Enharmonic](#enharmonic)
+-   [Ambiguous Endings](#ambiguous-endings)
+-   [Larger-scale Uses](#larger-scale-uses)
+-   [Reverse Picardy Endings](#reverse-picardy-endings)
+
 ## Pitches
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">

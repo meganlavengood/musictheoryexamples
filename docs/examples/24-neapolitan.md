@@ -4,7 +4,14 @@ title: "Neapolitan Chords (♭II)"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-## Flat Scale Degree 2
+Jump to:
+
+-   [$\\flat\\hat2$](#flathat2)
+-   [Straightforward Examples](#straightforward-examples)
+-   [Unusual Examples](#unusual-examples)
+-   [Tonicizing $\\rm{\\flat II}$](#tonicizing-rmflat-ii)
+
+## $\flat\hat2$
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -128,7 +135,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Tonicizing bII
+## Tonicizing $\rm{\flat II}$
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -142,7 +149,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td>Chopin, Mazurka in b minor, op. 33 no. 4, mm. 205-end</td>
       <td><a href="24-neapolitan/N6t.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td><a href="24-neapolitan/N6t.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
+      <td><a href="24-neapolitan/N6t.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
       <td>Beethoven, Piano Sonata op. 57, mvt. 1, mm. 1-10 (not including pickup)</td>

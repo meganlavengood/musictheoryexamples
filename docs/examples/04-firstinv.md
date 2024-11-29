@@ -1,19 +1,24 @@
 ---
 layout: examples-list
-title: "I6, V6, viio6"
+title: "I⁶, V⁶, viiº⁶"
 date: 2024-11-15 15:02:18 -0500
 ---
 
--   [Beginning on I6](#beginning-on-i6)
--   [I6](#i6)
--   [Ending on "I6"](#ending-on-i6)
--   [Beginning on V6](#beginning-on-v6)
--   [V6](#v6)
--   [vii06](#vii06)
--   [False viio](#false-viio)
+-   [$ \\rm{I^6} $](#-rmi6-)
+    -   [Beginning on $ \\rm{I^6} $](#beginning-on--rmi6-)
+    -   [Mid-phrase $ \\rm{I^6} $](#mid-phrase--rmi6-)
+    -   [Ending on apparent $ \\rm{I^6} $](#ending-on-apparent--rmi6-)
+-   [$ \\rm{V^6} $](#-rmv6-)
+    -   [Beginning on $ \\rm{V^6} $](#beginning-on--rmv6-)
+    -   [Mid-phrase $ \\rm{V^6} $](#mid-phrase--rmv6-)
+-   [$ \\rm{vii^o} $](#-rmviio-)
+    -   [$ \\rm{vii^{o6}} $](#-rmviio6-)
+    -   [Apparent $ \\rm{vii^{o}} $](#apparent--rmviio-)
 -   [Various combinations](#various-combinations)
 
-## Beginning on I<sup>6</sup>
+## $ \rm{I^6} $
+
+### Beginning on $ \rm{I^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -67,7 +72,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## I<sup>6</sup>
+### Mid-phrase $ \rm{I^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -117,7 +122,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Ending on &quot;I<sup>6</sup>&quot;
+### Ending on apparent $ \rm{I^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -156,7 +161,9 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Beginning on V<sup>6</sup>
+## $ \rm{V^6} $
+
+### Beginning on $ \rm{V^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -180,7 +187,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## V<sup>6</sup>
+### Mid-phrase $ \rm{V^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -325,7 +332,9 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## vii<sup>06</sup>
+## $ \rm{vii^o} $
+
+### $ \rm{vii^{o6}} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -459,7 +468,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## False vii<sup>o</sup>
+### Apparent $ \rm{vii^{o}} $
 
 Often with $\hat5$ nearby or within sequences.
 

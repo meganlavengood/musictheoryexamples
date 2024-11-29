@@ -1,25 +1,25 @@
 ---
 layout: examples-list
-title: "IV, ii, ii6"
+title: "IV, ii, ii⁶"
 date: 2024-11-15 15:02:18 -0500
 ---
 
--   [II](#ii)
-    -   [Beginning on II](#beginning-on-ii)
-    -   [Root-position II](#root-position-ii)
-    -   [II6](#ii6)
-    -   [II and II6](#ii-and-ii6)
-    -   [Less typical II(6)](#less-typical-ii6)
+-   [ii](#ii)
+    -   [Beginning on ii](#beginning-on-ii)
+    -   [Root-position ii](#root-position-ii)
+    -   [$ \\rm{ii^6} $](#-rmii6-)
+    -   [ii and $ \\rm{ii^6} $](#ii-and--rmii6-)
+    -   [Less typical $ \\rm{ii^6} $](#less-typical--rmii6-)
 -   [IV](#iv)
     -   [Beginning on IV](#beginning-on-iv)
     -   [IV](#iv-1)
     -   [Plagal Progressions and Cadences](#plagal-progressions-and-cadences)
-    -   [V(7)-IV](#v7-iv)
--   [IV and II(6)](#iv-and-ii6)
+    -   [$ \\rm{V^{(7)}-IV} $](#-rmv7-iv-)
+-   [IV and $ \\rm{ii^{(6)}} $](#iv-and--rmii6-)
 
-## II
+## ii
 
-### Beginning on II
+### Beginning on ii
 
 <table class=" tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -48,7 +48,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-### Root-position II
+### Root-position ii
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -87,7 +87,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-### II<sup>6</sup>
+### $ \rm{ii^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -211,7 +211,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-### II and II<sup>6</sup>
+### ii and $ \rm{ii^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -235,7 +235,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-### Less typical II<sup>(6)</sup>
+### Less typical $ \rm{ii^6} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -623,7 +623,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-### V<sup>(7)</sup>-IV
+### $ \rm{V^{(7)}-IV} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -687,7 +687,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## IV and II<sup>(6)</sup>
+## IV and $ \rm{ii^{(6)}} $
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>

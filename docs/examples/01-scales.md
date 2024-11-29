@@ -4,6 +4,8 @@ title: "Scales"
 date: 2024-11-15 15:02:18 -0500
 ---
 
+Jump to:
+
 -   [Major scales](#major-scales)
     -   [Ascending Major Scales](#ascending-major-scales)
     -   [Descending Major Scales](#descending-major-scales)

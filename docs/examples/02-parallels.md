@@ -4,7 +4,25 @@ title: "Parallel voice leading"
 date: 2024-11-15 15:02:18 -0500
 ---
 
-## Parallel fifths (good, interesting, debatable, bad)
+Jump to:
+
+-   [Parallel Fifths](#parallel-fifths)
+    -   [Good, interesting, debatable, bad](#good-interesting-debatable-bad)
+    -   [Parallel fifths between phrases](#parallel-fifths-between-phrases)
+    -   [Enharmonic parallel fifths](#enharmonic-parallel-fifths)
+    -   [Rustic and coloristic parallel fifths](#rustic-and-coloristic-parallel-fifths)
+    -   [Unequal fifths: diminished fifth → perfect fifth](#unequal-fifths-diminished-fifth--perfect-fifth)
+    -   [Fifth and octaves by contrary motion](#fifth-and-octaves-by-contrary-motion)
+    -   [Avoided and almost parallel fifths](#avoided-and-almost-parallel-fifths)
+-   ["Full-voiced" textures (Johann David Heinichen)](#full-voiced-textures-johann-david-heinichen)
+-   [Parallel octaves](#parallel-octaves)
+-   [From Brahms' notebook](#from-brahms-notebook)
+    -   [Fifths](#fifths)
+    -   [Octaves](#octaves)
+
+## Parallel Fifths
+
+### Good, interesting, debatable, bad
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -77,8 +95,8 @@ date: 2024-11-15 15:02:18 -0500
     </tr>
     <tr>
       <td>Brahms, Chorale Prelude, op. 122 no. 8, mm. 17-18</td>
+      <td><a href="02-parallel-vl/PvlJ1.mp3">{% octicon file height:16 aria-label:mp3 %}</a></td>
       <td><a href="02-parallel-vl/PvlJ1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>.<a href="02-parallel-vl/PvlJ1.mp3">mp3</a></td>
     </tr>
     <tr>
       <td>Beethoven, Leonore Overture no. 1, op. 138, mm. 185-186</td>
@@ -182,7 +200,7 @@ date: 2024-11-15 15:02:18 -0500
     </tr>
     <tr>
       <td>Brahms, Intermezzo in E-flat Major, op. 117 no 1, mm. 52-57</td>
-      <td><a href="02-parallel-vl/PvlH.mp3">{% octicon unmute height:16 aria-label:mp3 %}</td>
+      <td><a href="02-parallel-vl/PvlH.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="02-parallel-vl/PvlH.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
@@ -226,7 +244,7 @@ date: 2024-11-15 15:02:18 -0500
       <td><a href="02-parallel-vl/PvlK2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J.S. Bach, Chorale no. 64 &quot;Freu' dich sehr, O meine Seele,&quot; mm. 5-8 (wrong note?) (no recording)</td>
+      <td>J.S. Bach, Chorale no. 64 "Freu' dich sehr, O meine Seele," mm. 5-8 (wrong note?) (no recording)</td>
       <td></td>
       <td><a href="02-parallel-vl/PvlB.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -273,7 +291,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Parallel fifths between phrases
+### Parallel fifths between phrases
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -317,7 +335,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Enharmonic parallel fifths
+### Enharmonic parallel fifths
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -356,7 +374,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Rustic and coloristic parallel fifths
+### Rustic and coloristic parallel fifths
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -443,7 +461,7 @@ date: 2024-11-15 15:02:18 -0500
       <td><a href="02-parallel-vl/PvlL3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Puccini, The Girl of the Golden West, Act III, &quot;Ch'ella mi creda,&quot; mm. 5-11</td>
+      <td>Puccini, The Girl of the Golden West, Act III, "Ch'ella mi creda," mm. 5-11</td>
       <td><a href="02-parallel-vl/PvlT.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="02-parallel-vl/PvlT.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -505,7 +523,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Diminished fifth-perfect fifth
+### Unequal fifths: diminished fifth → perfect fifth
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -554,7 +572,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Fifth and octaves by contrary motion
+### Fifth and octaves by contrary motion
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -571,10 +589,9 @@ date: 2024-11-15 15:02:18 -0500
       <td><a href="02-parallel-vl/PvlB4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td></td>
       <td>J. S. Bach, Chorale no. 191 (&ldquo;Von Gott will ich nicht lassen&rdquo;), mm. 1-4 (no recording)</td>
-      <td><a href="02-parallel-vl/PvlC4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
       <td></td>
+      <td><a href="02-parallel-vl/PvlC4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
       <td>J. S. Bach, Chorale no. 69 (&ldquo;Komm, heiliger Geist, Herre Gott&rdquo;), mm. 1-3</td>
@@ -604,7 +621,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## Avoided and almost parallel fifths
+### Avoided and almost parallel fifths
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -648,10 +665,10 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td>Mozart, Piano Concerto no. 26 in D Major, K. 537, mvt. 1, mm. 67-74</td>
       <td><a href="02-parallel-vl/PvlN4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>.<a href="02-parallel-vl/PvlN4.pdf">pdf</a></td>
+      <td><a href="02-parallel-vl/PvlN4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Schubert, &quot;Wanderer&quot; Fantasy, op. 15, Adagio, mm. 9-14</td>
+      <td>Schubert, "Wanderer" Fantasy, op. 15, Adagio, mm. 9-14</td>
       <td><a href="02-parallel-vl/PvlL.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="02-parallel-vl/PvlL.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -667,8 +684,8 @@ date: 2024-11-15 15:02:18 -0500
     </tr>
     <tr>
       <td>Palestrina, &ldquo;O crux ave&rdquo;, mm. 21-23</td>
+      <td><a href="02-parallel-vl/PvlP4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="02-parallel-vl/PvlP4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
-      <td>.<a href="02-parallel-vl/PvlP4.mp3">mp3</a></td>
     </tr>
     <tr>
       <td>J. S. Bach, Chorale no. 143 (&ldquo;In dulci jubilo&rdquo;), mm. 22-25</td>
@@ -688,7 +705,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## &quot;Full-voiced&quot; textures (Johann David Heinichen)
+## "Full-voiced" textures (Johann David Heinichen)
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -774,7 +791,7 @@ date: 2024-11-15 15:02:18 -0500
       <td><a href="02-parallel-vl/PvlD5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Brahms, &quot;Alte Liebe&quot;, op. 72 no. 1, mm. 1-6</td>
+      <td>Brahms, "Alte Liebe", op. 72 no. 1, mm. 1-6</td>
       <td><a href="02-parallel-vl/PvlE5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="02-parallel-vl/PvlE5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -796,7 +813,7 @@ date: 2024-11-15 15:02:18 -0500
     <tr>
       <td>Mozart, A Musical Joke, K. 522, mvt. 2, Trio, mm. 1-8</td>
       <td><a href="02-parallel-vl/PvlH5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>.<a href="02-parallel-vl/PvlH5.pdf">pdf</a></td>
+      <td><a href="02-parallel-vl/PvlH5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
       <td>Beethoven, Piano Sonata in c minor, op. 10 no. 1, mvt. 2, mm. 13-16</td>
@@ -821,7 +838,9 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## From Brahms' notebook (fifths)
+## From Brahms' notebook
+
+### Fifths
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>
@@ -905,7 +924,7 @@ date: 2024-11-15 15:02:18 -0500
   </tbody>
 </table>
 
-## From Brahms' notebook (octaves)
+### Octaves
 
 <table class="tablesaw tablesaw-stack" data-tablesaw-mode="stack">
   <thead>

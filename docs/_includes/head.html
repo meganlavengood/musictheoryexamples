@@ -6,7 +6,9 @@
   <script src='{{ "/assets/tablesaw.stackonly.js" | relative_url }}'></script>
   <script src='{{ "/assets/tablesaw-init.js" | relative_url }}'></script>
   <script> MathJax = { tex: { inlineMath: [['$', '$']] } };</script>
-  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script> {%- seo -%}
+  <script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script type="text/javascript" id="MathJax-ams-script" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/input/tex/extensions/ams.min.js"></script>
+  {%- seo -%}
   <link rel="stylesheet" href='{{ "/assets/main.css" | relative_url }}'> {%- feed_meta -%} {%- if jekyll.environment == 'production' and site.google_analytics -%} {%- include google-analytics.html -%} {%- endif -%}
   <link rel="shortcut icon" type="image/png" href="favicon.png">
 </head>
