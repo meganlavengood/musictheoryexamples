@@ -2,6 +2,7 @@
 layout: examples-list
 title: "Neapolitan Chords (♭II)"
 date: 2024-11-15 15:02:18 -0500
+ex-dir: 24-neapolitan
 ---
 
 Jump to:

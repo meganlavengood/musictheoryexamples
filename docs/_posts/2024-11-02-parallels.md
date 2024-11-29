@@ -2,6 +2,7 @@
 layout: examples-list
 title: "Parallel voice leading"
 date: 2024-11-15 15:02:18 -0500
+ex-folder: 02-parallel-vl
 ---
 
 Jump to:
@@ -808,7 +809,7 @@ Jump to:
     <tr>
       <td>J. S. Bach, Brandenburg Concerto no. 5 in D Major, BWV 1050, mvt. 1, mm. 8-11</td>
       <td><a href="02-parallel-vl/PvlG5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td>.<a href="02-parallel-vl/PvlG5.pdf">pdf</a></td>
+      <td><a href="02-parallel-vl/PvlG5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
       <td>Mozart, A Musical Joke, K. 522, mvt. 2, Trio, mm. 1-8</td>
