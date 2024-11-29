@@ -2,33 +2,33 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+{%- if page.title -%}
 
-  {{ content }}
+<h1 class="page-heading">{{ page.title }}</h1>
+{%- endif -%}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+{{ content }}
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%}
+{%- if site.posts.size > 0 -%}
+
+<h2 class="post-list-heading">Table of Contents</h2>
+
+<ol>
+  {%- for post in site.posts reversed -%}
+  <li>
+    <a href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+    </a>
+  </li>
+  {%- endfor -%}
+</ol>
+{%- endif -%}
+
+<h2 id="more-examples-databases">More excellent theory examples databases</h2>
+<div class="row justify-content-around">
+
+  <a class="button" target="_blank" href="https://www.musicbywomen.org/theory/explore-the-database/">Music Theory Examples by Women</a>
+  <a class="button" target="_blank" href="https://diversemusictheoryexamples.com">Diverse Music Theory Examples</a>
+  <a class="button" target="_blank" href="https://docs.google.com/spreadsheets/d/1lrli7heXEwZlrLHJ8Oz_9VVzJ9FFJPlMlwQpbWBRock/edit?gid=748290735#gid=748290735" title="SMT Popular Music Interest Group examples database">Pop Music Examples Database</a>
 
 </div>

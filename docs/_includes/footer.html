@@ -5,25 +5,13 @@
 
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+    <div class="footer-col-wrapper row justify-content-around">
 
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-            {{ site.author | escape }}
-            {%- else -%}
-            {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
+      <div class="footer-col col-md-5">
         {%- include social.html -%}
       </div>
 
-      <div class="footer-col footer-col-3">
+      <div class="footer-col col-md-5">
 
         <p>This page is a work in progress and is still being constructed. If links aren't working, <a href="https://github.com/meganlavengood/musictheoryexamples/tree/main/docs/examples">try browsing the repository directly</a>.</p>
       </div>
