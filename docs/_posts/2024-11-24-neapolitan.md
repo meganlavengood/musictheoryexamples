@@ -1,16 +1,10 @@
 ---
 layout: examples-list
 title: "Neapolitan Chords (♭II)"
+title-formatted: "Neapolitan Chords ($ \\rm{\\flat II} $)"
 date: 2024-11-15 15:02:18 -0500
 ex-dir: 24-neapolitan
 ---
-
-Jump to:
-
--   [$\\flat\\hat2$](#flathat2)
--   [Straightforward Examples](#straightforward-examples)
--   [Unusual Examples](#unusual-examples)
--   [Tonicizing $\\rm{\\flat II}$](#tonicizing-rmflat-ii)
 
 ## $\flat\hat2$
 

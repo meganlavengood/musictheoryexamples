@@ -10,6 +10,7 @@
 	--teal: #20c997;
 	--cyan: #57a4cc;
 	--white: #fff;
+	--gray-light: #98a2ac;
 	--gray: #6c757d;
 	--gray-dark: #343a40;
 	--primary: #22357c;
@@ -57,4 +58,41 @@ a.button:hover {
 	.col-md-5 {
 		width: 40%;
 	}
+}
+
+/* Table of Contents */
+
+.toc-container {
+	margin-left: 2em;
+	border: 1px solid #d9d9e1;
+	width: fit-content;
+	margin-bottom: 2em;
+}
+.toc-title {
+	background-color: #ededf1;
+	border-bottom: 1px solid #d9d9e1;
+	font-size: unset;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	margin-bottom: 0;
+}
+.toc-body {
+	padding: 0.5em 1em 0 1em;
+}
+
+/* Post list */
+
+.post-list ol {
+	width: fit-content;
+}
+
+.post-list ol li {
+	line-height: 3;
+	border-bottom: 0.5px solid var(--purple);
+	list-style-position: inside;
+	color: var(--gray-light);
+}
+
+.post-list ol li a {
+	margin-left: 1rem;
 }

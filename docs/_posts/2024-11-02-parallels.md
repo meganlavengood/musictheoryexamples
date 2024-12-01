@@ -5,22 +5,6 @@ date: 2024-11-15 15:02:18 -0500
 ex-dir: 02-parallel-vl
 ---
 
-Jump to:
-
--   [Parallel Fifths](#parallel-fifths)
-    -   [Good, interesting, debatable, bad](#good-interesting-debatable-bad)
-    -   [Parallel fifths between phrases](#parallel-fifths-between-phrases)
-    -   [Enharmonic parallel fifths](#enharmonic-parallel-fifths)
-    -   [Rustic and coloristic parallel fifths](#rustic-and-coloristic-parallel-fifths)
-    -   [Unequal fifths: diminished fifth → perfect fifth](#unequal-fifths-diminished-fifth--perfect-fifth)
-    -   [Fifth and octaves by contrary motion](#fifth-and-octaves-by-contrary-motion)
-    -   [Avoided and almost parallel fifths](#avoided-and-almost-parallel-fifths)
--   ["Full-voiced" textures (Johann David Heinichen)](#full-voiced-textures-johann-david-heinichen)
--   [Parallel octaves](#parallel-octaves)
--   [From Brahms' notebook](#from-brahms-notebook)
-    -   [Fifths](#fifths)
-    -   [Octaves](#octaves)
-
 ## Parallel Fifths
 
 ### Good, interesting, debatable, bad

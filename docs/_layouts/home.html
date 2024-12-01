@@ -11,17 +11,28 @@ layout: default
 
 {%- if site.posts.size > 0 -%}
 
-<h2 class="post-list-heading">Table of Contents</h2>
+<div class="post-list">
 
-<ol>
-  {%- for post in site.posts reversed -%}
-  <li>
-    <a href="{{ post.url | relative_url }}">
-      {{ post.title | escape }}
-    </a>
-  </li>
-  {%- endfor -%}
-</ol>
+  <h2 class="post-list-heading">Table of Contents</h2>
+
+  <ol>
+    {%- for post in site.posts reversed -%}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        {%- if post.title-formatted -%}
+
+        {{ post.title-formatted | escape }}
+
+        {% else %}
+
+        {{ post.title | escape }}
+
+        {% endif %}
+      </a>
+    </li>
+    {%- endfor -%}
+  </ol>
+</div>
 {%- endif -%}
 
 <h2 id="more-examples-databases">More excellent theory examples databases</h2>
