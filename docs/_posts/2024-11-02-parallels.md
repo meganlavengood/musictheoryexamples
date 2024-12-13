@@ -190,8 +190,8 @@ ex-dir: 02-parallel-vl
     </tr>
     <tr>
       <td>Mozart, Piano Sonata in B-flat Major, K. 333, mvt. 2, mm. 48-50</td>
-      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/ PvlD2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/ PvlD2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
+      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
+      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
       <td>Ippolitov-Ivanov, Liturgy of St. John Chrysostom, op. 37 no. 14, mm. 1-6</td>
@@ -353,8 +353,8 @@ ex-dir: 02-parallel-vl
     </tr>
     <tr>
       <td>Brahms, String Sextet no. 1 in B-flat Major, op. 18, mvt. 1, mm. 35-40</td>
-      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/ PvlZ2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
-      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/ PvlZ2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
+      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlZ2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
+      <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlZ2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
   </tbody>
 </table>
