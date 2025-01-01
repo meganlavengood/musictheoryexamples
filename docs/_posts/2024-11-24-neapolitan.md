@@ -18,7 +18,7 @@ ex-dir: 24-neapolitan
   </thead>
   <tbody>
     <tr>
-      <td>Haydn, &quot;Il Terremoto&quot;, op. 51 no. 7, mm. 93-end</td>
+      <td>Haydn, Die Worte des Erlösers am Kreuze, &quot;Il Terremoto&quot;, op. 51 no. 7, mm. 93-123</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6a.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6a.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -28,12 +28,12 @@ ex-dir: 24-neapolitan
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6b.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Schubert, Quintet, end of mvt. 4, mm. 416-end</td>
+      <td>Schubert, String Quintet D. 956, mvt. 4, mm. 416-429</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6c.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6c.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Brahms, Piano Quintet in f minor, mvt. 3, mm. 173-end </td>
+      <td>Brahms, Piano Quintet in f minor, mvt. 3, mm. 173-193 </td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6d.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6d.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -48,7 +48,7 @@ ex-dir: 24-neapolitan
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6f.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Chopin, Etude, op. 25 no. 4, mm. 54-end</td>
+      <td>Chopin, Etude, op. 25 no. 4, mm. 54-65</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6g.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6g.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -87,7 +87,7 @@ ex-dir: 24-neapolitan
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6l.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Liszt, Transcendental Etude no. 2, mm. 92-end (not counting pickup measure)</td>
+      <td>Liszt, Transcendental Etude no. 2, mm. 92-102</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6m.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6m.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -142,12 +142,12 @@ ex-dir: 24-neapolitan
   </thead>
   <tbody>
     <tr>
-      <td>Chopin, Mazurka in b minor, op. 33 no. 4, mm. 205-end</td>
+      <td>Chopin, Mazurka in b minor, op. 33 no. 4, mm. 205-224</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6t.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6t.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Beethoven, Piano Sonata op. 57, mvt. 1, mm. 1-10 (not including pickup)</td>
+      <td>Beethoven, Piano Sonata op. 57, mvt. 1, mm. 1-10</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6u.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6u.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
