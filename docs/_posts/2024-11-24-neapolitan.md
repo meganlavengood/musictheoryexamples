@@ -18,7 +18,7 @@ ex-dir: 24-neapolitan
   </thead>
   <tbody>
     <tr>
-      <td>Haydn, Die Worte des Erlösers am Kreuze, &quot;Il Terremoto&quot;, op. 51 no. 7, mm. 93-123</td>
+      <td>Haydn, Die Worte des Erlösers am Kreuze, "Il Terremoto", op. 51 no. 7, mm. 93-123</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6a.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6a.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -67,7 +67,7 @@ ex-dir: 24-neapolitan
   </thead>
   <tbody>
     <tr>
-      <td>Schubert, Die Sch&ouml;ne M&uuml;llerin, no. 19, mm. 1-19</td>
+      <td>Schubert, Die Schöne Müllerin, no. 19, mm. 1-19</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6h.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6h.pdf"> {% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>

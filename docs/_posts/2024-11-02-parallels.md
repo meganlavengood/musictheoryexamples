@@ -49,7 +49,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlC1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Schubert, &ldquo;Du bist die Ruh&rdquo;, D. 776, mm. 54-60</td>
+      <td>Schubert, "Du bist die Ruh", D. 776, mm. 54-60</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -59,7 +59,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlE1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Brahms, Cadenza for Beethoven&rsquo;s Piano Concerto no. 3, op. 37, mvt. 1, mm. 32-34</td>
+      <td>Brahms, Cadenza for Beethoven's Piano Concerto no. 3, op. 37, mvt. 1, mm. 32-34</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PVlF1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlF1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -149,7 +149,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlW1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 4 (&ldquo;Es ist das Heil uns Kommen her&rdquo;), mm. 9-10</td>
+      <td>J. S. Bach, Chorale no. 4 ("Es ist das Heil uns Kommen her"), mm. 9-10</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX1.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX1.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -199,7 +199,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlE2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Tallis, &ldquo;If Ye Love Me&rdquo;, mm. 34-39</td>
+      <td>Tallis, "If Ye Love Me", mm. 34-39</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlF2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlF2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -209,7 +209,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlG2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Brahms, &ldquo;Treue Liebe dauert lange&rdquo;, op. 33 no. 15, mm. 1-4</td>
+      <td>Brahms, "Treue Liebe dauert lange", op. 33 no. 15, mm. 1-4</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlH2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlH2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -224,7 +224,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlJ2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Glenn Gould, &ldquo;So You Want to Write a Fugue?&rdquo;, mm. 1-10</td>
+      <td>Glenn Gould, "So You Want to Write a Fugue?", mm. 1-10</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlK2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlK2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -288,12 +288,12 @@ ex-dir: 02-parallel-vl
   </thead>
   <tbody>
     <tr>
-      <td>J. S. Bach, Chorale no. 134 (&ldquo;Du, o sch&ouml;nes Weltgeb&auml;ude&rdquo;), mm. 1-5</td>
+      <td>J. S. Bach, Chorale no. 134 ("Du, o schönes Weltgebäude"), mm. 1-5</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 90 (&ldquo;Hast du denn, Jesu, dein Angesicht&rdquo;), mm. 8-13</td>
+      <td>J. S. Bach, Chorale no. 90 ("Hast du denn, Jesu, dein Angesicht"), mm. 8-13</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlT2.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlT2.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -401,7 +401,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Grieg, Lyric Piece, op. 54 no. 6 (&ldquo;Bell Ringing&rdquo;), mm. 1-18</td>
+      <td>Grieg, Lyric Piece, op. 54 no. 6 ("Bell Ringing"), mm. 1-18</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlE3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlE3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -431,7 +431,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlJ3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Saint-Sa&euml;ns, Piano Concerto no. 5, op. 103, mvt. 2, m. 230</td>
+      <td>Saint-Saëns, Piano Concerto no. 5, op. 103, mvt. 2, m. 230</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlK3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlK3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -441,7 +441,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Liszt, Cs&aacute;rd&aacute;s Macabre, S. 224, mm. 1-27</td>
+      <td>Liszt, Csárdás Macabre, S. 224, mm. 1-27</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlL3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlL3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -451,7 +451,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlT.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Puccini, La Boh&egrave;me, Act III, mm. 1-23</td>
+      <td>Puccini, La Bohème, Act III, mm. 1-23</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlU.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlU.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -476,7 +476,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlO3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Holst, The Planets, mvt. 7 (&ldquo;Neptune, the Mystic&rdquo;), mm. 9-13</td>
+      <td>Holst, The Planets, mvt. 7 ("Neptune, the Mystic"), mm. 9-13</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlP3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlP3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -496,12 +496,12 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlV.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Ravel, &ldquo;Ronsard &agrave; son &acirc;me&rdquo;, mm. 1-37</td>
+      <td>Ravel, "Ronsard à son âme", mm. 1-37</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Poulenc, Trois Pi&egrave;ces, no. 2, mm. 1-6</td>
+      <td>Poulenc, Trois Pièces, no. 2, mm. 1-6</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlT3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlT3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -525,12 +525,12 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlU3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 60 (&ldquo;Ich freue mich in dir&rdquo;), mm. 1-2</td>
+      <td>J. S. Bach, Chorale no. 60 ("Ich freue mich in dir"), mm. 1-2</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlV3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlV3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 317 (&ldquo;Herr, wie du willst&rdquo;), mm. 1-2</td>
+      <td>J. S. Bach, Chorale no. 317 ("Herr, wie du willst"), mm. 1-2</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlW3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlW3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -550,7 +550,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlZ3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Brahms, &ldquo;Treue Liebe&rdquo;, op. 7 no. 1, mm. 12-14</td>
+      <td>Brahms, "Treue Liebe", op. 7 no. 1, mm. 12-14</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlA4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlA4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -569,17 +569,17 @@ ex-dir: 02-parallel-vl
   </thead>
   <tbody>
     <tr>
-      <td>J. S. Bach, Chorale no. 114 (&ldquo;Von Gott will ich nicht lassen&rdquo;), mm. 1-4</td>
+      <td>J. S. Bach, Chorale no. 114 ("Von Gott will ich nicht lassen"), mm. 1-4</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlB4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlB4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 191 (&ldquo;Von Gott will ich nicht lassen&rdquo;), mm. 1-4 (no recording)</td>
+      <td>J. S. Bach, Chorale no. 191 ("Von Gott will ich nicht lassen"), mm. 1-4 (no recording)</td>
       <td></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlC4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 69 (&ldquo;Komm, heiliger Geist, Herre Gott&rdquo;), mm. 1-3</td>
+      <td>J. S. Bach, Chorale no. 69 ("Komm, heiliger Geist, Herre Gott"), mm. 1-3</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -668,12 +668,12 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlO4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Palestrina, &ldquo;O crux ave&rdquo;, mm. 21-23</td>
+      <td>Palestrina, "O crux ave", mm. 21-23</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlP4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlP4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Chorale no. 143 (&ldquo;In dulci jubilo&rdquo;), mm. 22-25</td>
+      <td>J. S. Bach, Chorale no. 143 ("In dulci jubilo"), mm. 22-25</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlQ4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlQ4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -683,7 +683,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlR4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Brahms, &ldquo;Meerfahrt&rdquo;, op. 96 no. 4, mm. 21-27</td>
+      <td>Brahms, "Meerfahrt", op. 96 no. 4, mm. 21-27</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlS4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -722,7 +722,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlW4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Schubert, &ldquo;Du bist die Ruh&rdquo;, D. 776, mm. 54-60</td>
+      <td>Schubert, "Du bist die Ruh", D. 776, mm. 54-60</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX4.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX4.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -771,7 +771,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlC5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Mozart (arr. S&uuml;ssmayr), Requiem, K. 626, Recordare, mm. 20-24</td>
+      <td>Mozart (arr. Süssmayr), Requiem, K. 626, Recordare, mm. 20-24</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlD5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -887,7 +887,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlI.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Mendelssohn, Variations S&eacute;rieuses, op. 54, Var. 13, mm. 12-20</td>
+      <td>Mendelssohn, Variations Sérieuses, op. 54, Var. 13, mm. 12-20</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlU5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlU5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -902,7 +902,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlW5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Schubert, Die Sch&ouml;ne M&uuml;llerin, D. 795 no. 17 (&ldquo;Die b&ouml;se Farbe&rdquo;), mm. 17-22</td>
+      <td>Schubert, Die Schöne Müllerin, D. 795 no. 17 ("Die böse Farbe"), mm. 17-22</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
