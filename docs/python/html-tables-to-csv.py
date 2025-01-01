@@ -5,9 +5,11 @@ import glob
 
 # Define the regex patterns
 pattern_raw = re.compile(r'(.*?), (.*), (mm\. \d+-\d+)')
-pattern_generic = re.compile(r'((.* )?(Cantata|Concerto|Symphony|Sonata|Trio|Quartet|Quintet|Sextet|Suite|Prelude|Mass|Sinfonia|Mazurka|Waltz|Overture|Requiem|Etude|Minuet|Rondo|Berceuse|Ecossaisen|Menuett|Chorale|Fantasy|Ballade|Sonatina|Caprice|Intermezzo|Partita|Nocturne|Capriccio)( .*)?)(, )?')
-pattern_mvt = re.compile(r'mvt\. \d')
-pattern_catalog = re.compile(r'((((op|op\. posth|D|K)\. )|BWV |HWV |WoO |Hob\. [A-Z]*:)\d+[a-z]?)( no. \d+)?')
+pattern_generic = re.compile(r'((.* )?(Cantata|Concerto|Symphony|Sonata|Trio|Quartet|Quintet|Sextet|Suite|Prelude|Mass|Sinfonia|Mazurka|Waltz|Overture|Requiem|Etude|Minuet|Rondo|Berceuse|Ecossaisen|Menuett|Chorale|Fantasy|Ballade|Sonatina|Caprice|Intermezzo|Partita|Nocturne|Capriccio|Motet)( .*)?)(, )?')
+pattern_mvt = re.compile(r'(, (mvt\. \d))')
+pattern_catalog = re.compile(r'(, ((((op|op\. posth|D|K)\. )|BWV |HWV |RV |WoO |Hob\. [A-Z]*:)\d+[a-z]?)( no. \d+)?)')
+pattern_piece = re.compile(r'((, )?\(?"(.*)"\)? ?)')
+pattern_act = re.compile(r'(Act [A-Z]+( .*?)?), ')
 
 # Function to parse HTML files and collect data
 def parse_html_files(file_paths):
@@ -52,19 +54,51 @@ def process_csv(file_path, rows):
         for row in rows:
             match = pattern_raw.search(row[3])
             if match:
-                row[4] = match.group(1)
-                row[5] = match.group(2)
-                row[6] = match.group(3)
-            writer.writerow(row)
+                row[4] = match.group(1) ## composer
+                row[5] = match.group(2) ## raw title
+                row[6] = match.group(3) ## measure span
 
-        # Find generic title
-        # for row in rows:
-        #     match = pattern_generic.search(row[5])
-        #     if match:
-        #         row[4] = match.group(1)
-        #         row[5] = match.group(2)
-        #         row[6] = match.group(3)
-        #     writer.writerow(row)
+            temp_title = row[5] 
+
+            # extract movement
+            try:
+                match = pattern_mvt.search(temp_title)
+            except TypeError:
+                match = None
+            if match:
+                row[11] = match.group(2)
+                temp_title = temp_title.replace(match.group(1),"")
+
+            # extract catalog no
+            try:
+                match = pattern_catalog.search(temp_title)
+            except TypeError:
+                match = None
+            if match:
+                row[10] = match.group(2)
+                temp_title = temp_title.replace(match.group(1),"")
+            
+            # extract piece title
+            try:
+                match = pattern_piece.search(temp_title)
+            except TypeError:
+                match = None
+            if match:
+                row[9] = match.group(3)
+                temp_title = temp_title.replace(match.group(1),"")
+
+            print(temp_title)
+
+            # try:
+            #     match = pattern_act.search(temp_title)
+            # except TypeError:
+            #     match = None
+            # if match:
+            #     row[11] = match.group(2)
+            #     temp_title = temp_title.replace(match.group(1),"")
+
+
+            writer.writerow(row)
 
 # Main script
 html_files = glob.glob('../../docs/_site/2024/12/01/*.html')  # Adjust the path and pattern as needed

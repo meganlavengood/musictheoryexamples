@@ -882,7 +882,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlT5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Bizet, Carmen, Act I, no. 9, mm. 11-20</td>
+      <td>Bizet, Carmen, Act I no. 9, mm. 11-20</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlI.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlI.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
