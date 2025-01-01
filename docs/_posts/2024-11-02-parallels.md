@@ -540,7 +540,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlX3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>J. S. Bach, Brandenburg Concerto no. 1 in F major, BWV 1046, mvt. 2, mm. 10-11</td>
+      <td>J. S. Bach, Brandenburg Concerto no. 1 in F Major, BWV 1046, mvt. 2, mm. 10-11</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlY3.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlY3.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
@@ -852,7 +852,7 @@ ex-dir: 02-parallel-vl
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlO5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Beethoven, Piano Sonata in E major, op. 14 no. 1, mm. 51-57</td>
+      <td>Beethoven, Piano Sonata in E Major, op. 14 no. 1, mm. 51-57</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlP5.mp3">{% octicon unmute height:16 aria-label:mp3 %}</a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/PvlP5.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>

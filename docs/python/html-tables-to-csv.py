@@ -3,8 +3,11 @@ import re
 from bs4 import BeautifulSoup
 import glob
 
-# Define the regex pattern
-pattern = re.compile(r'(.*?), (.*), (mm\. \d+-\d+)')
+# Define the regex patterns
+pattern_raw = re.compile(r'(.*?), (.*), (mm\. \d+-\d+)')
+pattern_generic = re.compile(r'((.* )?(Cantata|Concerto|Symphony|Sonata|Trio|Quartet|Quintet|Sextet|Suite|Prelude|Mass|Sinfonia|Mazurka|Waltz|Overture|Requiem|Etude|Minuet|Rondo|Berceuse|Ecossaisen|Menuett|Chorale|Fantasy|Ballade|Sonatina|Caprice|Intermezzo|Partita|Nocturne|Capriccio)( .*)?)(, )?')
+pattern_mvt = re.compile(r'mvt\. \d')
+pattern_catalog = re.compile(r'((((op|op\. posth|D|K)\. )|BWV |HWV |WoO |Hob\. [A-Z]*:)\d+[a-z]?)( no. \d+)?')
 
 # Function to parse HTML files and collect data
 def parse_html_files(file_paths):
@@ -33,26 +36,35 @@ def parse_html_files(file_paths):
                             mp3 = cols[1].find('a')['href'] if cols[1].find('a') else ''
                             pdf = cols[2].find('a')['href'] if cols[2].find('a') else ''
                             rows.append([topic, subtopic1, subtopic2, raw_ex_info, None, None, None,
-                                         None, None, None, None, None, None, None, mp3, pdf])
+                                        None, None, None, None, None, None, None, mp3, pdf])
     return rows
 
-# Function to read and write CSV
+# Function to parse the raw info
 def process_csv(file_path, rows):
     with open(file_path, mode='w', newline='', encoding='utf-8') as outfile:
         writer = csv.writer(outfile)
         # Write the header row
         writer.writerow(['topic', 'subtopic1', 'subtopic2', 'raw_ex_info', 'composer', 
-                         'raw_ex_title', 'raw_ex_mm', 'larger_work', 'generic_title', 'piece_title', 
-                         'catalog_no', 'movement', 'measure_start', 'measure_end', 'mp3', 'pdf'])
+                        'raw_ex_title', 'raw_ex_mm', 'larger_work', 'generic_title', 'piece_title', 
+                        'catalog_no', 'movement', 'measure_start', 'measure_end', 'mp3', 'pdf'])
         
-        # Write the rows collected from HTML files
+        # Break raw info into composer, title, and measure numbers
         for row in rows:
-            match = pattern.search(row[3])
+            match = pattern_raw.search(row[3])
             if match:
                 row[4] = match.group(1)
                 row[5] = match.group(2)
                 row[6] = match.group(3)
             writer.writerow(row)
+
+        # Find generic title
+        # for row in rows:
+        #     match = pattern_generic.search(row[5])
+        #     if match:
+        #         row[4] = match.group(1)
+        #         row[5] = match.group(2)
+        #         row[6] = match.group(3)
+        #     writer.writerow(row)
 
 # Main script
 html_files = glob.glob('../../docs/_site/2024/12/01/*.html')  # Adjust the path and pattern as needed

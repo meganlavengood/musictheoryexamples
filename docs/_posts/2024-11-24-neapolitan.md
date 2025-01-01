@@ -77,7 +77,7 @@ ex-dir: 24-neapolitan
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6i.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
     <tr>
-      <td>Beethoven, Piano Sonata op. 27, no. 2, mvt. 1, mm. 1-5.</td>
+      <td>Beethoven, Piano Sonata op. 27 no. 2, mvt. 1, mm. 1-5.</td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6j.mp3">.mp3 </a></td>
       <td><a href="{{site.baseurl}}/examples/{{page.ex-dir}}/N6j.pdf">{% octicon file height:16 aria-label:pdf %}</a></td>
     </tr>
