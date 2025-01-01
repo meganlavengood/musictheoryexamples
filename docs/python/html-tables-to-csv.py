@@ -1,38 +1,63 @@
 import csv
+import re
 from bs4 import BeautifulSoup
+import glob
 
-# Read the HTML file
-with open('docs/_site/2024/12/01/37.html', 'r', encoding='utf-8') as file:
-    soup = BeautifulSoup(file, 'html.parser')
+# Define the regex pattern
+pattern = re.compile(r'(.*?), (.*), (mm\. \d+-\d+)')
 
-# Create a CSV file to write the output
-with open('output.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    csvwriter = csv.writer(csvfile)
-    # Write the header row
-    csvwriter.writerow(['topic', 'subtopic1', 'subtopic2', 'raw_ex_title', 'composer', 
-                        'larger_work', 'generic_title', 'piece_title', 'catalog_no', 
-                        'movement', 'measure_start', 'measure_end', 'mp3', 'pdf'])
+# Function to parse HTML files and collect data
+def parse_html_files(file_paths):
+    rows = []
+    for file_path in file_paths:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            soup = BeautifulSoup(file, 'html.parser')
+            
+            topic = ""
+            subtopic1 = ""
+            subtopic2 = ""
+            
+            for element in soup.find_all(['h1','h2', 'h3', 'table']):
+                if element.name == 'h1':
+                    topic = element.get_text(strip=True)
+                elif element.name == 'h2':
+                    subtopic1 = element.get_text(strip=True)
+                elif element.name == 'h3':
+                    subtopic2 = element.get_text(strip=True)
+                elif element.name == 'table':
+                    table_rows = element.find_all('tr')
+                    for row in table_rows:
+                        cols = row.find_all('td')
+                        if len(cols) >= 3:
+                            raw_ex_info = cols[0].get_text(strip=True)
+                            mp3 = cols[1].find('a')['href'] if cols[1].find('a') else ''
+                            pdf = cols[2].find('a')['href'] if cols[2].find('a') else ''
+                            rows.append([topic, subtopic1, subtopic2, raw_ex_info, None, None, None,
+                                         None, None, None, None, None, None, None, mp3, pdf])
+    return rows
 
-    # Initialize variables
-    subtopic1 = ""
-    subtopic2 = ""
+# Function to read and write CSV
+def process_csv(file_path, rows):
+    with open(file_path, mode='w', newline='', encoding='utf-8') as outfile:
+        writer = csv.writer(outfile)
+        # Write the header row
+        writer.writerow(['topic', 'subtopic1', 'subtopic2', 'raw_ex_info', 'composer', 
+                         'raw_ex_title', 'raw_ex_mm', 'larger_work', 'generic_title', 'piece_title', 
+                         'catalog_no', 'movement', 'measure_start', 'measure_end', 'mp3', 'pdf'])
+        
+        # Write the rows collected from HTML files
+        for row in rows:
+            match = pattern.search(row[3])
+            if match:
+                row[4] = match.group(1)
+                row[5] = match.group(2)
+                row[6] = match.group(3)
+            writer.writerow(row)
 
-    # Extract data
-    for element in soup.find_all(['h2', 'h3', 'table']):
-        if element.name == 'h2':
-            subtopic1 = element.get_text(strip=True)
-        elif element.name == 'h3':
-            subtopic2 = element.get_text(strip=True)
-        elif element.name == 'table':
-            rows = element.find_all('tr')
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) >= 3:
-                    raw_ex_title = cols[0].get_text(strip=True)
-                    mp3 = cols[1].find('a')['href'] if cols[1].find('a') else ''
-                    pdf = cols[2].find('a')['href'] if cols[2].find('a') else ''
-                    csvwriter.writerow([None, subtopic1, subtopic2, raw_ex_title, None, 
-                                        None, None, None, None, None, None, None, 
-                                        mp3, pdf])
+# Main script
+html_files = glob.glob('../../docs/_site/2024/12/01/*.html')  # Adjust the path and pattern as needed
+rows = parse_html_files(html_files)
+output_file = 'output.csv'
+process_csv(output_file, rows)
 
 print("Data has been successfully extracted to output.csv")
